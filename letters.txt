@@ -47,7 +47,7 @@ so - to a great extent; therefore | past: X | future: X | syn: therefore
 what - asking for information about something | past: X | future: X | syn: which
 time - the ongoing sequence of events | past: timed | future: will time | syn: moment
 up - toward a higher position or level | past: X | future: X | syn: above
-go
+go - to move from one place to another | past: went | future: will go | syn: travel
 about - concerning or on the subject of | past: X | future: X | syn: regarding
 than - used to introduce the second element in a comparison | past: X | future: X | syn: compared to
 into - expressing movement toward the inside of something | past: X | future: X | syn: inside
@@ -138,156 +138,156 @@ general - affecting or involving all or most | past: X | future: X | syn: overal
 school - an institution where students are educated | past: X | future: X | syn: institution
 never - not at any time | past: X | future: X | syn: not ever
 same - identical; not different | past: X | future: X | syn: identical
-another
-begin
-while
-number
-part
-turn
-real
-leave
-might
-want
-point
-form
-off
-child
-few
-small
-since
-against
-ask
-late
-home
-interest
-large
-person
-end
-open
-public
-follow
-during
-present
-without
-again
-hold
-govern
-around
-possible
-head
-consider
-word
-program
-problem
-however
-lead
-system
-set
-order
-eye
-plan
-run
-keep
-face
-fact
-group
-play
-stand
-increase
-early
-course
-change
-help
-line
-city
-put
-close
-case
-force
-meet
-once
-water
-upon
-war
-build
-hear
-light
-unite
-live
-every
-country
-bring
-center
-let
-side
-try
-provide
-continue
-name
-certain
-power
-pay
-result
-question
-study
-woman
-member
-until
-far
-night
-always
-service
-away
-report
-something
-company
-week
-church
-toward
-start
-social
-room
-figure
-nature
-though
-young
-less
-enough
-almost
-read
-include
-president
-nothing
-yet
-better
-big
-boy
-cost
-business
-value
-second
-why
-clear
-expect
-family
-complete
-act
-sense
-mind
-experience
-art
-next
-near
-direct
-car
-law
-industry
-important
-girl
-god
-several
-matter
-usual
+another - referring to an additional person or thing of the same type | past: X | future: X | syn: additional
+begin - to start or initiate something | past: began | future: will begin | syn: start
+while - during the time that; at the same time as | past: X | future: X | syn: whereas
+number - a mathematical value used for counting or measuring | past: numbered | future: will number | syn: figure
+part - a piece or section of a whole | past: parted | future: will part | syn: portion
+turn - to move in a circular direction or change direction | past: turned | future: will turn | syn: rotate
+real - actually existing; genuine and not imaginary | past: X | future: X | syn: genuine
+leave - to go away from a place or person | past: left | future: will leave | syn: depart
+might - expressing possibility; great power or strength | past: X | future: X | syn: may
+want - to feel a desire or wish for something | past: wanted | future: will want | syn: desire
+point - a specific location or position; to direct attention toward something | past: pointed | future: will point | syn: spot
+form - the shape or structure of something; to create or shape | past: formed | future: will form | syn: shape
+off - away from a place or position | past: X | future: X | syn: away
+child - a young human being; a son or daughter | past: X | future: X | syn: kid
+few - a small number of; not many | past: X | future: X | syn: several
+small - of limited size; not large | past: X | future: X | syn: little
+since - from a particular time in the past until now | past: X | future: X | syn: because
+against - in opposition to; in contact with | past: X | future: X | syn: versus
+ask - to request information or pose a question | past: asked | future: will ask | syn: inquire
+late - after the expected or usual time; near the end | past: X | future: X | syn: delayed
+home - the place where one lives; a residence | past: X | future: X | syn: residence
+interest - a feeling of curiosity or concern; to attract attention | past: interested | future: will interest | syn: curiosity
+large - of considerable size; big | past: X | future: X | syn: big
+person - a human being | past: X | future: X | syn: individual
+end - the final part of something; to bring to a conclusion | past: ended | future: will end | syn: finish
+open - not closed; to move so as to allow access | past: opened | future: will open | syn: unlock
+public - relating to people in general; open to all | past: X | future: X | syn: common
+follow - to go or come after; to act according to | past: followed | future: will follow | syn: pursue
+during - throughout the duration of; at some point in | past: X | future: X | syn: throughout
+present - existing or occurring now; to give or show formally | past: presented | future: will present | syn: current
+without - not having; in the absence of | past: X | future: X | syn: lacking
+again - once more; another time | past: X | future: X | syn: once more
+hold - to keep in one's hands; to contain | past: held | future: will hold | syn: grasp
+govern - to control and direct the affairs of a country or organization | past: governed | future: will govern | syn: rule
+around - on all sides of; approximately | past: X | future: X | syn: about
+possible - able to happen or be done | past: X | future: X | syn: feasible
+head - the upper part of the body; to be in charge of | past: headed | future: will head | syn: lead
+consider - to think carefully about; to take into account | past: considered | future: will consider | syn: contemplate
+word - a single unit of language; a term | past: X | future: X | syn: term
+program - a set of instructions or a plan of activities | past: programmed | future: will program | syn: plan
+problem - a matter or situation that is difficult to deal with | past: X | future: X | syn: issue
+however - used to introduce a contrast or exception | past: X | future: X | syn: nevertheless
+lead - to guide or direct; to be in first place | past: led | future: will lead | syn: guide
+system - a set of connected things forming a complex whole | past: X | future: X | syn: network
+set - to put in a specific place; a group of things | past: set | future: will set | syn: place
+order - a request or command; to give an instruction | past: ordered | future: will order | syn: command
+eye - the organ of sight; to look at closely | past: eyed | future: will eye | syn: watch
+plan - a detailed proposal for doing something; to intend | past: planned | future: will plan | syn: scheme
+run - to move faster than walking; to manage or operate | past: ran | future: will run | syn: sprint
+keep - to have or retain possession of; to continue | past: kept | future: will keep | syn: retain
+face - the front part of the head; to look toward or deal with | past: faced | future: will face | syn: confront
+fact - a thing that is known to be true | past: X | future: X | syn: truth
+group - a number of people or things together; to arrange in a set | past: grouped | future: will group | syn: cluster
+play - to engage in activity for enjoyment; to perform | past: played | future: will play | syn: perform
+stand - to be in an upright position; to tolerate | past: stood | future: will stand | syn: rise
+increase - to become or make greater in size or amount | past: increased | future: will increase | syn: grow
+early - before the usual or expected time; near the beginning | past: X | future: X | syn: soon
+course - a route taken; a series of lessons | past: X | future: X | syn: path
+change - to make or become different; an alteration | past: changed | future: will change | syn: alter
+help - to make it easier for someone to do something | past: helped | future: will help | syn: assist
+line - a long thin mark; a row of people or things | past: lined | future: will line | syn: row
+city - a large town; an urban area | past: X | future: X | syn: metropolis
+put - to move something to a particular place | past: put | future: will put | syn: place
+close - near in distance; to cover an opening | past: closed | future: will close | syn: shut
+case - a particular situation or instance | past: X | future: X | syn: instance
+force - strength or power; to make someone do something | past: forced | future: will force | syn: compel
+meet - to come into contact with; to encounter | past: met | future: will meet | syn: encounter
+once - one time only; at a particular time in the past | past: X | future: X | syn: formerly
+water - a clear liquid essential for life; to pour water on plants | past: watered | future: will water | syn: liquid
+upon - on; immediately after | past: X | future: X | syn: on
+war - armed conflict between countries or groups | past: X | future: X | syn: conflict
+build - to construct or create something | past: built | future: will build | syn: construct
+hear - to perceive sound with the ears | past: heard | future: will hear | syn: listen
+light - the natural agent that makes things visible; to ignite | past: lit | future: will light | syn: illuminate
+unite - to come or bring together for a common purpose | past: united | future: will unite | syn: join
+live - to remain alive; to have one's home in a place | past: lived | future: will live | syn: exist
+every - used to refer to all individual members of a group | past: X | future: X | syn: each
+country - a nation with its own government | past: X | future: X | syn: nation
+bring - to carry or take something to a place | past: brought | future: will bring | syn: carry
+center - the point equally distant from all edges; to place in the middle | past: centered | future: will center | syn: middle
+let - to allow or permit something | past: let | future: will let | syn: allow
+side - a position to the left or right; an edge or surface | past: sided | future: will side | syn: edge
+try - to make an attempt to do something | past: tried | future: will try | syn: attempt
+provide - to make available; to supply | past: provided | future: will provide | syn: supply
+continue - to go on doing something; to carry on | past: continued | future: will continue | syn: persist
+name - a word by which someone is known; to give a name to | past: named | future: will name | syn: title
+certain - known for sure; particular but not named | past: X | future: X | syn: sure
+power - the ability to do something; energy | past: powered | future: will power | syn: strength
+pay - to give money in exchange for goods or services | past: paid | future: will pay | syn: compensate
+result - a consequence or outcome; to happen as a consequence | past: resulted | future: will result | syn: outcome
+question - a sentence worded to obtain information; to ask or doubt | past: questioned | future: will question | syn: inquiry
+study - the devotion of time to learning; to learn about a subject | past: studied | future: will study | syn: learn
+woman - an adult human female | past: X | future: X | syn: female
+member - a person belonging to a group or organization | past: X | future: X | syn: participant
+until - up to the point in time when; before | past: X | future: X | syn: till
+far - at a great distance; remote | past: X | future: X | syn: distant
+night - the period of darkness between sunset and sunrise | past: X | future: X | syn: evening
+always - at all times; on all occasions | past: X | future: X | syn: forever
+service - the action of helping others; to maintain or repair | past: serviced | future: will service | syn: assist
+away - at a distance from a place; in another direction | past: X | future: X | syn: elsewhere
+report - an account of something; to give information about | past: reported | future: will report | syn: account
+something - an unspecified or unknown thing | past: X | future: X | syn: anything
+company - a business organization; the fact of being with others | past: X | future: X | syn: firm
+week - a period of seven days | past: X | future: X | syn: seven days
+church - a building used for worship; a Christian organization | past: X | future: X | syn: chapel
+toward - in the direction of; closer to | past: X | future: X | syn: towards
+start - to begin or cause to begin | past: started | future: will start | syn: begin
+social - relating to society; needing companionship | past: X | future: X | syn: communal
+room - a space within a building; enough space for something | past: X | future: X | syn: space
+figure - a number or shape; to calculate or think | past: figured | future: will figure | syn: calculate
+nature - the physical world; the basic qualities of something | past: X | future: X | syn: environment
+though - despite the fact that; however | past: X | future: X | syn: although
+young - having lived or existed for only a short time | past: X | future: X | syn: youthful
+less - a smaller amount of; to a smaller extent | past: X | future: X | syn: fewer
+enough - as much as required; adequate | past: X | future: X | syn: sufficient
+almost - not quite; very nearly | past: X | future: X | syn: nearly
+read - to look at and understand written words | past: read | future: will read | syn: peruse
+include - to contain as part of a whole; to make part of | past: included | future: will include | syn: contain
+president - the head of a country or organization | past: X | future: X | syn: leader
+nothing - not anything; no single thing | past: X | future: X | syn: zero
+yet - up until now; still; nevertheless | past: X | future: X | syn: still
+better - of a higher quality; to improve | past: bettered | future: will better | syn: improve
+big - of considerable size; large | past: X | future: X | syn: large
+boy - a male child | past: X | future: X | syn: lad
+cost - the amount paid for something; to require payment | past: cost | future: will cost | syn: price
+business - a commercial activity; the practice of making a living | past: X | future: X | syn: commerce
+value - the importance or worth of something; to consider important | past: valued | future: will value | syn: worth
+second - coming after the first; a unit of time; to support | past: seconded | future: will second | syn: moment
+why - for what reason or purpose | past: X | future: X | syn: reason
+clear - easy to perceive; free of obstruction; to remove | past: cleared | future: will clear | syn: obvious
+expect - to regard as likely to happen; to anticipate | past: expected | future: will expect | syn: anticipate
+family - a group of people related by blood or marriage | past: X | future: X | syn: household
+complete - having all parts; to finish or make whole | past: completed | future: will complete | syn: finish
+act - a thing done; to take action or perform | past: acted | future: will act | syn: perform
+sense - a faculty of perception; to detect or feel | past: sensed | future: will sense | syn: feeling
+mind - the faculty of consciousness and thought; to object to | past: minded | future: will mind | syn: intellect
+experience - practical contact with something; to encounter or undergo | past: experienced | future: will experience | syn: encounter
+art - creative expression; the product of human creativity | past: X | future: X | syn: craft
+next - coming immediately after the present one | past: X | future: X | syn: following
+near - at a short distance; close; to approach | past: neared | future: will near | syn: close
+direct - going in a straight line; to guide or manage | past: directed | future: will direct | syn: guide
+car - a motor vehicle with four wheels | past: X | future: X | syn: vehicle
+law - a rule made by a government; a system of rules | past: X | future: X | syn: rule
+industry - economic activity concerned with producing goods | past: X | future: X | syn: trade
+important - of great significance or value | past: X | future: X | syn: significant
+girl - a female child or young woman | past: X | future: X | syn: lass
+god - a superhuman being worshipped as having power over nature | past: X | future: X | syn: deity
+several - more than two but not very many | past: X | future: X | syn: various
+matter - physical substance; a subject; to be important | past: mattered | future: will matter | syn: substance
+usual - habitually done; occurring regularly | past: X | future: X | syn: normal
 rather
 per
 often

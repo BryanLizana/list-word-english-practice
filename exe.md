@@ -13,11 +13,26 @@
 - [x] lines 111-120
 - [x] lines 121-130
 - [x] lines 131-140
-- [ ] lines 141-150 ← current
+- [x] lines 141-150
+- [x] lines 151-160
+- [x] lines 161-170
+- [x] lines 171-180
+- [x] lines 181-190
+- [x] lines 191-200
+- [x] lines 201-210
+- [x] lines 211-220
+- [x] lines 221-230
+- [x] lines 231-240
+- [x] lines 241-250
+- [x] lines 251-260
+- [x] lines 261-270
+- [x] lines 271-280
+- [x] lines 281-290
+- [ ] lines 291-300 ← current
 
 ---
 
-Read the file D:/0-init-BLizana/5-claude/english/letters.txt lines 141 to 150.
+Read the file D:/0-init-BLizana/5-claude/english/letters.txt lines 291 to 300.
 For each word add on the same line: definition in English, past tense, future tense, and a synonym.
 Use this exact format:
 
