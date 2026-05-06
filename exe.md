@@ -28,11 +28,75 @@
 - [x] lines 261-270
 - [x] lines 271-280
 - [x] lines 281-290
-- [ ] lines 291-300 ← current
+- [x] lines 291-300
+- [x] lines 301-310
+- [x] lines 311-320
+- [x] lines 321-330
+- [x] lines 331-340
+- [x] lines 341-350
+- [x] lines 351-360
+- [x] lines 361-370
+- [x] lines 371-380
+- [x] lines 381-390
+- [x] lines 391-400
+- [x] lines 401-410
+- [x] lines 411-420
+- [x] lines 421-430
+- [x] lines 431-440
+- [x] lines 441-450
+- [x] lines 451-460
+- [x] lines 461-470
+- [x] lines 471-480
+- [x] lines 481-490
+- [x] lines 491-500
+- [x] lines 501-510
+- [x] lines 511-520
+- [x] lines 521-530
+- [x] lines 531-540
+- [x] lines 541-550
+- [x] lines 551-560
+- [x] lines 561-570
+- [x] lines 571-580
+- [x] lines 581-590
+- [x] lines 591-600
+- [x] lines 601-610
+- [x] lines 611-620
+- [x] lines 621-630
+- [x] lines 631-640
+- [x] lines 641-650
+- [x] lines 651-660
+- [x] lines 661-670
+- [x] lines 671-680
+- [x] lines 681-690
+- [x] lines 691-700
+- [x] lines 701-710
+- [x] lines 711-720
+- [x] lines 721-730
+- [x] lines 731-740
+- [x] lines 741-750
+- [x] lines 751-760
+- [x] lines 761-770
+- [x] lines 771-780
+- [x] lines 781-790
+- [x] lines 791-800
+- [x] lines 801-810
+- [x] lines 811-820
+- [x] lines 821-830
+- [x] lines 831-840
+- [x] lines 841-850
+- [x] lines 851-860
+- [x] lines 861-870
+- [x] lines 871-880
+- [x] lines 881-890
+- [x] lines 891-900
+- [x] lines 901-910
+- [x] lines 911-920
+- [x] lines 921-930
+- [ ] lines 931-940 ← current
 
 ---
 
-Read the file D:/0-init-BLizana/5-claude/english/letters.txt lines 291 to 300.
+Read the file D:/0-init-BLizana/5-claude/english/letters.txt lines 931 to 940.
 For each word add on the same line: definition in English, past tense, future tense, and a synonym.
 Use this exact format:
 
