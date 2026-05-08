@@ -928,636 +928,636 @@ advantage - a condition giving a superior position; a benefit or gain | past: X 
 match - a contest between two teams or players; to correspond or be equal | past: matched | future: will match | syn: contest
 regular - arranged in a consistent pattern; conforming to a standard | past: X | future: X | syn: consistent
 wage - a fixed regular payment for work; to carry on a conflict | past: waged | future: will wage | syn: salary
-refuse
-existence
-hardly
-perform
-title
-tend
-exercise
-thin
-coat
-bit
-mountain
-youth
-behavior
-newspaper
-secret
-ability
-sea
-soft
-justice
-reasonable
-circle
-solid
-page
-weapon
-fast
-representative
-search
-pure
-escape
-crowd
-stick
-telephone
-avoid
-garden
-favor
-news
-unless
-dinner
-someone
-signal
-yard
-ideal
-warm
-miss
-shelter
-soldier
-article
-cry
-captain
-familiar
-seat
-guest
-weak
-excite
-king
-everyone
-wine
-hole
-duty
-beat
-perfect
-bottom
-compose
-battle
-expense
-cattle
-flow
-kitchen
-dust
-bottle
-admit
-tear
-tire
-expression
-exception
-application
-belong
-rich
-failure
-struggle
-instrument
-variety
-narrow
-theater
-collection
-rain
-review
-preserve
-leadership
-clay
-daughter
-fellow
-swing
-thank
-library
-fat
-reserve
-tour
-nice
-warn
-ring
-bitter
-chair
-yesterday
-scientific
-flower
-wheel
-solution
-aim
-gather
-invite
-moreover
-fresh
-forest
-winter
-box
-belief
-ordinary
-impossible
-print
-gray
-taste
-lip
-speech
-reference
-stain
-connection
-otherwise
-stretch
-knife
-village
-blow
-mistake
-sweet
-shout
-divide
-guard
-worse
-exchange
-rare
-commercial
-request
-appoint
-agent
-dependence
-bird
-wild
-motion
-guess
-neighbor
-seed
-fashion
-loan
-correct
-plain
-mail
-retire
-opposite
-prefer
-safe
-evil
-double
-wood
-empty
-baby
-advise
-content
-sport
-lift
-literary
-curious
-tie
-flat
-message
-neck
-hate
-dirt
-delight
-trust
-nobody
-valley
-tool
-presence
-cook
-railroad
-minister
-coffee
-brush
-beside
-collect
-guide
-luck
-profit
-lord
-everybody
-prison
-cloud
-slave
-chairman
-soil
-distinguish
-introduce
-urge
-blind
-arise
-upper
-curve
-membership
-key
-entertain
-soul
-neighborhood
-friendly
-pair
-stone
-lean
-protect
-advertise
-mystery
-welcome
-knee
-jump
-snake
-stream
-avenue
-brown
-disease
-hat
-excellent
-formal
-snow
-sheet
-somehow
-unity
-sky
-rough
-smooth
-weather
-steady
-threaten
-depth
-oppose
-deliver
-ancient
-pray
-adopt
-birth
-appearance
-universe
-busy
-hurry
-coast
-forth
-smell
-furnish
-female
-hide
-wire
-proposal
-ought
-victory
-quarter
-engine
-customer
-waste
-fool
-intend
-intention
-desk
-politics
-passage
-lawyer
-root
-climb
-metal
-gradual
-hunt
-protection
-satisfy
-roof
-branch
-pleasure
-witness
-loose
-nose
-mine
-band
-aside
-risk
-tomorrow
-remind
-ear
-fish
-shore
-operator
-civilize
-being
-silent
-screen
-bind
-earn
-pack
-colony
-besides
-slip
-cousin
-scale
-relief
-explore
-stem
-brain
-musician
-defend
-bend
-somebody
-shadow
-mix
-smoke
-description
-fruit
-guilt
-yield
-sensitive
-salt
-pale
-sweep
-completion
-throat
-agriculture
-admire
-gentle
-dozen
-particle
-pleasant
-bay
-cup
-competition
-moon
-terrible
-strip
-mechanic
-shock
-conversation
-angle
-tall
-plenty
-star
-yellow
-sick
-thorough
-absolute
-succeed
-surround
-proud
-dear
-card
-lake
-breath
-afraid
-silence
-onto
-shoe
-somewhere
-chain
-slide
-copy
-machinery
-wake
-severe
-pocket
-bone
-honest
-freeze
-dictionary
-calm
-swim
-ice
-male
-skin
-crack
-rush
-wet
-meat
-commerce
-joint
-gift
-host
-suspect
-path
-uncle
-afford
-instant
-satisfactory
-height
-track
-confidence
-grass
-suggestion
-favorite
-breakfast
-apart
-chest
-entrance
-march
-sink
-northern
-iron
-alive
-ill
-bag
-disturb
-native
-bedroom
-violent
-beneath
-pause
-tough
-substance
-threat
-charm
-absence
-factory
-spite
-meal
-universal
-accident
-highway
-sentence
-liberty
-wise
-noise
-discovery
-tube
-flash
-twist
-fence
-childhood
-joy
-sister
-sad
-efficiency
-disappear
-defeat
-extensive
-rent
-comparison
-possess
-grace
-flesh
-liquid
-scientist
-ease
-heaven
-milk
-sympathy
-rank
-restaurant
-frequency
-angry
-shade
-accuse
-necessity
-knock
-loud
-permanent
-row
-lovely
-confuse
-gold
-frighten
-solve
-grave
-salary
-photograph
-advice
-abroad
-wound
-virtue
-dare
-queen
-extra
-attract
-numerous
-pink
-gate
-expensive
-shut
-chicken
-forgive
-holy
-wooden
-prompt
-crime
-sorry
-republic
-anger
-visitor
-pile
-violence
-steel
-wing
-stair
-partner
-delay
-gentleman
-pour
-confusion
-damage
-kick
-safety
-burst
-network
-resistance
-screw
-pride
-till
-hire
-verb
-preach
-clerk
-everywhere
-anyway
-fan
-connect
-egg
-efficient
-grain
-calculate
-drag
-opposition
-worship
-arrest
-discipline
-string
-harbor
-camera
-mechanism
-cow
-grand
-funny
-insurance
-reduction
-strict
-lesson
-tight
-sand
-plate
-qualify
-elsewhere
-mad
-interference
-pupil
-fold
-royal
-valuable
-whisper
-anybody
-hurt
-excess
-quantity
-fun
-mud
-extension
-recognition
-kiss
-crop
-sail
-attractive
-habit
-relieve
-wisdom
-persuade
-certainty
-cloth
-eager
-deserve
-sympathetic
-cure
-trap
-puzzle
-powder
-raw
-mankind
-glad
-blame
-whenever
-anxiety
-bus
-tremble
-sacred
-fortunate
-glory
-golden
-neat
-weekend
-treasury
-overcome
-cat
-sacrifice
-complain
-elect
-roar
-sake
-temple
-self
-compete
-nurse
-stuff
-stomach
-peculiar
-repair
-storm
-ton
-desert
-allowance
-servant
-hunger
-conscience
-bread
-crash
-tip
-strengthen
-proof
-generous
-sir
-tonight
-whip
-tongue
-mill
-merchant
+refuse - to indicate unwillingness to do or accept something | past: refused | future: will refuse | syn: decline
+existence - the state or fact of living or having objective reality | past: X | future: X | syn: being
+hardly - scarcely; only just; almost not at all | past: X | future: X | syn: barely
+perform - to carry out or accomplish an action or task | past: performed | future: will perform | syn: execute
+title - a name given to a work, person, or position; to give a name to something | past: titled | future: will title | syn: name
+tend - to regularly behave in a particular way; to care for | past: tended | future: will tend | syn: incline
+exercise - activity requiring physical effort; to use a faculty or right | past: exercised | future: will exercise | syn: workout
+thin - having little thickness or depth; to make or become less dense | past: thinned | future: will thin | syn: slim
+coat - an outer garment worn outdoors; a covering layer; to cover with a substance | past: coated | future: will coat | syn: layer
+bit - a small piece, part, or amount of something | past: X | future: X | syn: piece
+mountain - a large natural elevation rising above the surrounding land | past: X | future: X | syn: peak
+youth - the period between childhood and adulthood | past: X | future: X | syn: adolescence
+behavior - the way in which one acts or conducts oneself | past: X | future: X | syn: conduct
+newspaper - a printed or digital publication containing news and articles | past: X | future: X | syn: gazette
+secret - something kept hidden or unknown to others | past: X | future: X | syn: mystery
+ability - the capacity or skill to do something | past: X | future: X | syn: skill
+sea - a large body of salt water; the ocean | past: X | future: X | syn: ocean
+soft - easy to mold; not hard or firm; gentle | past: X | future: X | syn: gentle
+justice - the quality of being fair and reasonable | past: X | future: X | syn: fairness
+reasonable - fair and sensible; moderate in expectations | past: X | future: X | syn: sensible
+circle - a round plane figure; to move in a circular path | past: circled | future: will circle | syn: ring
+solid - firm and stable in shape; not liquid or gas | past: X | future: X | syn: firm
+page - one side of a sheet of paper; to summon someone | past: paged | future: will page | syn: leaf
+weapon - a thing designed to inflict harm or damage | past: X | future: X | syn: arm
+fast - moving quickly; to abstain from food | past: fasted | future: will fast | syn: quick
+representative - a person chosen to act on behalf of others | past: X | future: X | syn: delegate
+search - to look thoroughly for something | past: searched | future: will search | syn: seek
+pure - not mixed with anything else; clean and untainted | past: X | future: X | syn: clean
+escape - to break free from confinement; to get away | past: escaped | future: will escape | syn: flee
+crowd - a large number of people gathered together; to fill a space | past: crowded | future: will crowd | syn: mob
+stick - a thin piece of wood; to attach firmly to something | past: stuck | future: will stick | syn: adhere
+telephone - a device for transmitting voice over a distance; to call someone | past: telephoned | future: will telephone | syn: phone
+avoid - to keep away from; to refrain from doing | past: avoided | future: will avoid | syn: evade
+garden - a piece of land for growing plants; to tend plants | past: gardened | future: will garden | syn: yard
+favor - approval or support; to prefer or treat with partiality | past: favored | future: will favor | syn: preference
+news - newly received or noteworthy information about events | past: X | future: X | syn: information
+unless - except on the condition that | past: X | future: X | syn: except
+dinner - the main meal of the day, typically eaten in the evening | past: X | future: X | syn: supper
+someone - an unknown or unspecified person | past: X | future: X | syn: somebody
+signal - a gesture or sign conveying information; to indicate | past: signaled | future: will signal | syn: sign
+yard - a unit of length equal to 3 feet; enclosed ground near a building | past: X | future: X | syn: court
+ideal - a standard of perfection; most suitable or desirable | past: X | future: X | syn: perfect
+warm - moderately hot; to make or become warm | past: warmed | future: will warm | syn: heat
+miss - to fail to hit or reach; to feel the absence of someone | past: missed | future: will miss | syn: lack
+shelter - a place giving protection from danger; to provide refuge | past: sheltered | future: will shelter | syn: refuge
+soldier - a person who serves in an army | past: X | future: X | syn: warrior
+article - a piece of writing in a publication; a particular item | past: X | future: X | syn: piece
+cry - to shed tears; to shout or call out | past: cried | future: will cry | syn: weep
+captain - the person in command of a ship, aircraft, or team | past: X | future: X | syn: commander
+familiar - well known from long association; easy to recognize | past: X | future: X | syn: known
+seat - a thing made for sitting on; to arrange someone in a seat | past: seated | future: will seat | syn: chair
+guest - a person who is invited to visit or stay | past: X | future: X | syn: visitor
+weak - lacking strength or power; fragile | past: X | future: X | syn: feeble
+excite - to cause strong feelings of enthusiasm or eagerness | past: excited | future: will excite | syn: stimulate
+king - the male ruler of a nation or kingdom | past: X | future: X | syn: monarch
+everyone - every person; all people in a group | past: X | future: X | syn: everybody
+wine - an alcoholic drink made from fermented grapes | past: X | future: X | syn: vintage
+hole - a hollow space or opening in a solid object | past: X | future: X | syn: gap
+duty - a moral or legal obligation; a task required of someone | past: X | future: X | syn: obligation
+beat - to strike repeatedly; to defeat; a regular rhythm | past: beat | future: will beat | syn: strike
+perfect - having no faults or defects; to make flawless | past: perfected | future: will perfect | syn: flawless
+bottom - the lowest point or surface of something | past: X | future: X | syn: base
+compose - to write or create a piece of music or text; to calm oneself | past: composed | future: will compose | syn: create
+battle - a sustained fight between armed forces; to struggle | past: battled | future: will battle | syn: fight
+expense - the cost required for something; money spent | past: X | future: X | syn: cost
+cattle - domesticated bovine animals raised for milk or meat | past: X | future: X | syn: livestock
+flow - to move steadily and continuously; a steady stream | past: flowed | future: will flow | syn: stream
+kitchen - a room where food is prepared and cooked | past: X | future: X | syn: cookroom
+dust - fine dry powder covering surfaces; to remove dust | past: dusted | future: will dust | syn: powder
+bottle - a container for storing liquids; to store in bottles | past: bottled | future: will bottle | syn: flask
+admit - to confess or acknowledge; to allow entry to a place | past: admitted | future: will admit | syn: acknowledge
+tear - a drop of liquid from the eye; to pull apart forcefully | past: tore | future: will tear | syn: rip
+tire - a rubber covering for a wheel; to become weary | past: tired | future: will tire | syn: exhaust
+expression - the way something is conveyed or communicated | past: X | future: X | syn: statement
+exception - a case that does not follow the general rule | past: X | future: X | syn: exclusion
+application - a formal request; a program designed for a device | past: X | future: X | syn: program
+belong - to be the property of; to be a member of a group | past: belonged | future: will belong | syn: fit
+rich - having great wealth; plentiful or abundant | past: X | future: X | syn: wealthy
+failure - lack of success; the omission of expected action | past: X | future: X | syn: defeat
+struggle - to make great efforts against difficulty; a conflict | past: struggled | future: will struggle | syn: strive
+instrument - a tool used to perform a task; a musical device | past: X | future: X | syn: tool
+variety - the state of being different; a range of diverse items | past: X | future: X | syn: diversity
+narrow - of small width; to make or become less wide | past: narrowed | future: will narrow | syn: slim
+theater - a building where plays are performed; dramatic works | past: X | future: X | syn: playhouse
+collection - a group of things gathered or assembled together | past: X | future: X | syn: assembly
+rain - water falling from clouds; to fall like rain | past: rained | future: will rain | syn: drizzle
+review - a critical assessment of something; to examine carefully | past: reviewed | future: will review | syn: examine
+preserve - to maintain something in its original state; food kept in sugar | past: preserved | future: will preserve | syn: maintain
+leadership - the action of leading a group or organization | past: X | future: X | syn: guidance
+clay - fine-grained natural soil used for making pottery | past: X | future: X | syn: mud
+daughter - a girl or woman in relation to her parents | past: X | future: X | syn: girl
+fellow - a man or boy; a member of a learned society | past: X | future: X | syn: man
+swing - to move back and forth; a swinging movement | past: swung | future: will swing | syn: sway
+thank - to express gratitude toward someone | past: thanked | future: will thank | syn: appreciate
+library - a building containing a collection of books for public use | past: X | future: X | syn: archive
+fat - having an excess of flesh; a natural oily substance | past: X | future: X | syn: plump
+reserve - to keep something for future use; an area of protected land | past: reserved | future: will reserve | syn: save
+tour - a journey visiting several places; to travel around | past: toured | future: will tour | syn: trip
+nice - pleasant; agreeable; pleasing in nature | past: X | future: X | syn: pleasant
+warn - to inform someone of danger or possible negative consequences | past: warned | future: will warn | syn: caution
+ring - a small circular band worn on a finger; to make a bell sound | past: rang | future: will ring | syn: circle
+bitter - having a sharp, pungent taste; feeling resentful or angry | past: X | future: X | syn: harsh
+chair - a separate seat for one person; to lead a meeting | past: chaired | future: will chair | syn: seat
+yesterday - the day before today | past: X | future: X | syn: prior day
+scientific - relating to or based on science and systematic study | past: X | future: X | syn: empirical
+flower - the seed-bearing part of a plant; to produce flowers | past: flowered | future: will flower | syn: bloom
+wheel - a circular object rotating on an axle; to push on wheels | past: wheeled | future: will wheel | syn: disk
+solution - a means of solving a problem; a liquid mixture | past: X | future: X | syn: answer
+aim - to point at a target; an objective or goal | past: aimed | future: will aim | syn: goal
+gather - to bring or come together; to collect items | past: gathered | future: will gather | syn: collect
+invite - to ask someone to come to an event or do something | past: invited | future: will invite | syn: summon
+moreover - in addition to what has been said; furthermore | past: X | future: X | syn: furthermore
+fresh - recently made or obtained; not stale or deteriorated | past: X | future: X | syn: new
+forest - a large area covered chiefly with trees | past: X | future: X | syn: woods
+winter - the coldest season of the year | past: X | future: X | syn: cold season
+box - a container with flat sides; to fight with fists | past: boxed | future: will box | syn: container
+belief - an acceptance that something exists or is true | past: X | future: X | syn: faith
+ordinary - not unusual or different; normal and expected | past: X | future: X | syn: normal
+impossible - not able to occur, exist, or be done | past: X | future: X | syn: unachievable
+print - to produce text or images on paper; a printed copy | past: printed | future: will print | syn: publish
+gray - of a color between black and white | past: X | future: X | syn: ash
+taste - the sensation of flavor; to perceive flavor | past: tasted | future: will taste | syn: flavor
+lip - either of the two fleshy parts forming the edges of the mouth | past: X | future: X | syn: edge
+speech - the expression of thoughts by spoken words | past: X | future: X | syn: talk
+reference - a mention of a source; to direct attention to | past: referenced | future: will reference | syn: mention
+stain - a mark left by a substance; to mark with a stain | past: stained | future: will stain | syn: mark
+connection - a relationship or link between people or things | past: X | future: X | syn: link
+otherwise - in different circumstances; in a different way | past: X | future: X | syn: alternatively
+stretch - to extend one's body or a material; to make longer | past: stretched | future: will stretch | syn: extend
+knife - a sharp cutting instrument with a blade and handle | past: X | future: X | syn: blade
+village - a small settlement smaller than a town | past: X | future: X | syn: town
+blow - to move air with force; a hard hit | past: blew | future: will blow | syn: hit
+mistake - an error or wrong action | past: X | future: X | syn: error
+sweet - having a pleasant sugary taste; pleasant and kind | past: X | future: X | syn: sugary
+shout - to speak or call out loudly | past: shouted | future: will shout | syn: yell
+divide - to separate into parts; to split | past: divided | future: will divide | syn: split
+guard - a person who protects; to watch over | past: guarded | future: will guard | syn: protect
+worse - of poorer quality or in a less favorable condition | past: X | future: X | syn: inferior
+exchange - an act of giving one thing and receiving another; to trade | past: exchanged | future: will exchange | syn: trade
+rare - not occurring often; unusually good or valuable | past: X | future: X | syn: uncommon
+commercial - relating to commerce; an advertisement broadcast on media | past: X | future: X | syn: advertisement
+request - an act of asking for something; to ask for | past: requested | future: will request | syn: ask
+appoint - to assign a role or position to someone | past: appointed | future: will appoint | syn: assign
+agent - a person who acts on behalf of another | past: X | future: X | syn: representative
+dependence - the state of relying on someone or something | past: X | future: X | syn: reliance
+bird - a warm-blooded vertebrate with feathers and wings | past: X | future: X | syn: fowl
+wild - living in natural conditions; not tame or controlled | past: X | future: X | syn: untamed
+motion - the action of moving; a formal proposal in a meeting | past: X | future: X | syn: movement
+guess - to estimate without full knowledge; an estimate | past: guessed | future: will guess | syn: estimate
+neighbor - a person who lives near another | past: X | future: X | syn: resident
+seed - the part of a plant from which a new plant grows; to plant | past: seeded | future: will seed | syn: grain
+fashion - a popular trend in clothing or style; to make or shape | past: fashioned | future: will fashion | syn: style
+loan - a sum of money lent; to lend money | past: loaned | future: will loan | syn: lend
+correct - free from error; to fix an error | past: corrected | future: will correct | syn: right
+plain - not decorated; easy to understand; a flat area of land | past: X | future: X | syn: simple
+mail - letters and packages delivered by post; to send by post | past: mailed | future: will mail | syn: post
+retire - to stop working due to old age; to withdraw | past: retired | future: will retire | syn: withdraw
+opposite - situated across from; completely different | past: X | future: X | syn: contrary
+prefer - to like one thing better than another | past: preferred | future: will prefer | syn: favor
+safe - free from harm or danger; a strong lockable box | past: X | future: X | syn: secure
+evil - morally bad; wicked; harmful | past: X | future: X | syn: wicked
+double - twice the amount; to multiply by two | past: doubled | future: will double | syn: twice
+wood - the hard material forming the trunk of a tree | past: X | future: X | syn: timber
+empty - containing nothing; to remove all contents | past: emptied | future: will empty | syn: hollow
+baby - a very young child or animal | past: X | future: X | syn: infant
+advise - to offer suggestions or recommendations to someone | past: advised | future: will advise | syn: counsel
+content - the things included in something; feeling satisfied | past: X | future: X | syn: satisfied
+sport - an activity involving physical exertion and skill | past: X | future: X | syn: game
+lift - to raise upward; to pick up | past: lifted | future: will lift | syn: raise
+literary - relating to literature or writing | past: X | future: X | syn: written
+curious - eager to know or learn; strange and unusual | past: X | future: X | syn: inquisitive
+tie - a cord used to bind; to fasten with a knot | past: tied | future: will tie | syn: bind
+flat - having a level surface; lacking variation; an apartment | past: X | future: X | syn: level
+message - a verbal or written communication sent to someone | past: X | future: X | syn: communication
+neck - the part of the body connecting the head to the trunk | past: X | future: X | syn: throat
+hate - intense dislike; to feel strong dislike for | past: hated | future: will hate | syn: despise
+dirt - matter that soils something; loose earth or soil | past: X | future: X | syn: soil
+delight - great pleasure or happiness; to take great pleasure | past: delighted | future: will delight | syn: joy
+trust - firm belief in reliability or truth; to believe in | past: trusted | future: will trust | syn: rely
+nobody - no person; a person of no importance | past: X | future: X | syn: no one
+valley - a low area of land between hills or mountains | past: X | future: X | syn: dale
+tool - a device used to carry out a particular function | past: X | future: X | syn: instrument
+presence - the fact of being in a place; bearing or manner | past: X | future: X | syn: attendance
+cook - a person who prepares food; to prepare food using heat | past: cooked | future: will cook | syn: chef
+railroad - a system of tracks on which trains run | past: X | future: X | syn: railway
+minister - a head of a government department; a religious leader | past: X | future: X | syn: official
+coffee - a hot drink made from roasted coffee beans | past: X | future: X | syn: brew
+brush - a tool with bristles for cleaning; to clean with a brush | past: brushed | future: will brush | syn: sweep
+beside - at the side of; next to | past: X | future: X | syn: next to
+collect - to gather things together from various places | past: collected | future: will collect | syn: gather
+guide - a person who leads others; to lead or direct | past: guided | future: will guide | syn: lead
+luck - success brought by chance; fortune | past: X | future: X | syn: fortune
+profit - a financial gain; to gain benefit from something | past: profited | future: will profit | syn: gain
+lord - someone with authority over others; a title of nobility | past: X | future: X | syn: master
+everybody - every person; all people in a group | past: X | future: X | syn: everyone
+prison - a place where people are held as punishment | past: X | future: X | syn: jail
+cloud - a visible mass of water droplets in the sky | past: X | future: X | syn: mist
+slave - a person forced to work for another without pay | past: X | future: X | syn: servant
+chairman - the person who leads a committee or board | past: X | future: X | syn: president
+soil - the upper layer of earth in which plants grow | past: X | future: X | syn: earth
+distinguish - to recognize as different; to identify clearly | past: distinguished | future: will distinguish | syn: differentiate
+introduce - to bring something into use for the first time; to present | past: introduced | future: will introduce | syn: present
+urge - a strong desire; to encourage someone to do something | past: urged | future: will urge | syn: encourage
+blind - unable to see; to make unable to see | past: blinded | future: will blind | syn: sightless
+arise - to come into existence; to get up from sleep | past: arose | future: will arise | syn: emerge
+upper - higher in position or rank | past: X | future: X | syn: higher
+curve - a line that bends smoothly; to form a curved shape | past: curved | future: will curve | syn: bend
+membership - the state of being a member of a group | past: X | future: X | syn: enrollment
+key - a small device for opening a lock; crucial or important | past: X | future: X | syn: important
+entertain - to provide amusement; to consider an idea | past: entertained | future: will entertain | syn: amuse
+soul - the spiritual part of a person; a person's inner being | past: X | future: X | syn: spirit
+neighborhood - a district or community within a town | past: X | future: X | syn: district
+friendly - kind and pleasant toward others; not hostile | past: X | future: X | syn: kind
+pair - a set of two matching things; to put together | past: paired | future: will pair | syn: couple
+stone - a small piece of rock; to throw stones at | past: stoned | future: will stone | syn: rock
+lean - to incline from a vertical position; having little fat | past: leaned | future: will lean | syn: tilt
+protect - to keep safe from harm or injury | past: protected | future: will protect | syn: defend
+advertise - to promote a product or service publicly | past: advertised | future: will advertise | syn: promote
+mystery - something difficult to understand or explain | past: X | future: X | syn: enigma
+welcome - to greet someone with pleasure; received gladly | past: welcomed | future: will welcome | syn: greet
+knee - the joint between the upper and lower leg | past: X | future: X | syn: joint
+jump - to push oneself off the ground into the air | past: jumped | future: will jump | syn: leap
+snake - a long limbless reptile | past: X | future: X | syn: serpent
+stream - a small narrow river; to flow in a steady current | past: streamed | future: will stream | syn: river
+avenue - a wide road; a way of approaching something | past: X | future: X | syn: boulevard
+brown - of a color between orange and black | past: X | future: X | syn: tan
+disease - a disorder of the body causing illness | past: X | future: X | syn: illness
+hat - a shaped covering for the head | past: X | future: X | syn: cap
+excellent - extremely good; outstanding in quality | past: X | future: X | syn: outstanding
+formal - done in accordance with rules or ceremony | past: X | future: X | syn: official
+snow - frozen atmospheric water that falls in white flakes; to fall as snow | past: snowed | future: will snow | syn: frost
+sheet - a large rectangular piece of fabric; a flat piece of paper | past: X | future: X | syn: layer
+somehow - in a way that is not known or clearly specified | past: X | future: X | syn: anyhow
+unity - the state of being united; harmony among people | past: X | future: X | syn: harmony
+sky - the region of the atmosphere above the earth | past: X | future: X | syn: heavens
+rough - having an uneven surface; not gentle or careful | past: X | future: X | syn: coarse
+smooth - having a flat even surface; free from difficulties | past: X | future: X | syn: even
+weather - the state of the atmosphere at a given time | past: X | future: X | syn: climate
+steady - firmly fixed; not wavering; to make stable | past: steadied | future: will steady | syn: stable
+threaten - to indicate an intention to harm someone | past: threatened | future: will threaten | syn: menace
+depth - the distance from the top to the bottom of something | past: X | future: X | syn: deepness
+oppose - to disagree with or resist; to compete against | past: opposed | future: will oppose | syn: resist
+deliver - to bring goods to a destination; to rescue | past: delivered | future: will deliver | syn: bring
+ancient - belonging to the very distant past | past: X | future: X | syn: old
+pray - to speak to a deity in worship; to hope strongly | past: prayed | future: will pray | syn: worship
+adopt - to legally take a child as one's own; to choose | past: adopted | future: will adopt | syn: embrace
+birth - the process of being born; origin or beginning | past: X | future: X | syn: origin
+appearance - the way something or someone looks | past: X | future: X | syn: look
+universe - all existing matter, space, and time | past: X | future: X | syn: cosmos
+busy - engaged in activity; having a lot to do | past: X | future: X | syn: occupied
+hurry - to move or act quickly; great haste | past: hurried | future: will hurry | syn: rush
+coast - the land near the sea; to move without effort | past: coasted | future: will coast | syn: shore
+forth - forward in time, place, or order | past: X | future: X | syn: forward
+smell - the faculty of perceiving odors; an odor | past: smelled | future: will smell | syn: odor
+furnish - to provide a room with furniture; to supply | past: furnished | future: will furnish | syn: supply
+female - of the sex that can bear offspring; a female person | past: X | future: X | syn: woman
+hide - to put out of sight; to conceal oneself | past: hid | future: will hide | syn: conceal
+wire - a flexible metal thread; to connect electrically | past: wired | future: will wire | syn: cable
+proposal - a plan or suggestion put forward; an offer of marriage | past: X | future: X | syn: suggestion
+ought - used to indicate duty or what is correct | past: X | future: X | syn: should
+victory - an act of defeating an opponent in a contest | past: X | future: X | syn: triumph
+quarter - one of four equal parts; a period of three months | past: quartered | future: will quarter | syn: fourth
+engine - a machine for converting energy into mechanical force | past: X | future: X | syn: motor
+customer - a person who buys goods or services | past: X | future: X | syn: client
+waste - to use carelessly; material left over as useless | past: wasted | future: will waste | syn: squander
+fool - a silly or unwise person; to deceive someone | past: fooled | future: will fool | syn: idiot
+intend - to have a plan or purpose in mind | past: intended | future: will intend | syn: plan
+intention - what one intends to do; a plan or purpose | past: X | future: X | syn: purpose
+desk - a piece of furniture with a flat top for writing | past: X | future: X | syn: table
+politics - activities associated with government and power | past: X | future: X | syn: governance
+passage - a way through; a section of a text | past: X | future: X | syn: corridor
+lawyer - a person qualified to practice law | past: X | future: X | syn: attorney
+root - the part of a plant that grows in the ground; origin | past: rooted | future: will root | syn: origin
+climb - to go up using the hands and feet; to rise | past: climbed | future: will climb | syn: ascend
+metal - a solid material such as iron, gold, or copper | past: X | future: X | syn: alloy
+gradual - taking place or progressing slowly over time | past: X | future: X | syn: slow
+hunt - to chase and kill wild animals; to search | past: hunted | future: will hunt | syn: chase
+protection - the act of keeping something safe from harm | past: X | future: X | syn: defense
+satisfy - to fulfill the expectations or needs of someone | past: satisfied | future: will satisfy | syn: please
+roof - the top covering of a building | past: X | future: X | syn: ceiling
+branch - a part of a tree growing from the trunk; a division | past: X | future: X | syn: division
+pleasure - a feeling of enjoyment or satisfaction | past: X | future: X | syn: enjoyment
+witness - a person who sees an event; to see something happen | past: witnessed | future: will witness | syn: observer
+loose - not firmly fixed; not tight; to set free | past: loosed | future: will loose | syn: slack
+nose - the facial organ used for smelling and breathing | past: X | future: X | syn: snout
+mine - belonging to me; an excavation for minerals | past: mined | future: will mine | syn: excavation
+band - a flat strip; a group of musicians; to form a group | past: banded | future: will band | syn: group
+aside - to one side; out of the way | past: X | future: X | syn: apart
+risk - a situation involving danger; to expose to danger | past: risked | future: will risk | syn: danger
+tomorrow - the day after today | past: X | future: X | syn: next day
+remind - to cause someone to remember something | past: reminded | future: will remind | syn: prompt
+ear - the organ of hearing in humans and animals | past: X | future: X | syn: hearing organ
+fish - a cold-blooded vertebrate living in water; to catch fish | past: fished | future: will fish | syn: catch
+shore - the land along the edge of a sea or large lake | past: X | future: X | syn: coast
+operator - a person who operates equipment or a business | past: X | future: X | syn: handler
+civilize - to bring to a stage of social and cultural development | past: civilized | future: will civilize | syn: educate
+being - a living creature; the nature or essence of something | past: X | future: X | syn: creature
+silent - making no sound; refraining from speech | past: X | future: X | syn: quiet
+screen - a flat surface for displaying images; to show a film | past: screened | future: will screen | syn: display
+bind - to tie or fasten; to hold together firmly | past: bound | future: will bind | syn: tie
+earn - to obtain money in return for work | past: earned | future: will earn | syn: gain
+pack - a collection of things wrapped together; to fill a bag | past: packed | future: will pack | syn: bundle
+colony - a country or area controlled by another country | past: X | future: X | syn: settlement
+besides - in addition to; moreover | past: X | future: X | syn: moreover
+slip - to lose one's balance accidentally; a small piece of paper | past: slipped | future: will slip | syn: slide
+cousin - the child of one's uncle or aunt | past: X | future: X | syn: relative
+scale - a measuring device; a series of levels; to climb | past: scaled | future: will scale | syn: climb
+relief - a feeling of reassurance after anxiety; aid given | past: X | future: X | syn: comfort
+explore - to travel through an unfamiliar area; to investigate | past: explored | future: will explore | syn: investigate
+stem - the main stalk of a plant; to stop the flow of | past: stemmed | future: will stem | syn: stalk
+brain - the organ of the central nervous system in the skull | past: X | future: X | syn: mind
+musician - a person who plays a musical instrument professionally | past: X | future: X | syn: performer
+defend - to protect from attack; to argue in support of | past: defended | future: will defend | syn: protect
+bend - to curve or cause to curve; a curved part | past: bent | future: will bend | syn: curve
+somebody - an unspecified or unknown person | past: X | future: X | syn: someone
+shadow - a dark area caused by light being blocked | past: X | future: X | syn: shade
+mix - to combine different elements together; a mixture | past: mixed | future: will mix | syn: blend
+smoke - a suspension of particles in gas from burning; to inhale tobacco | past: smoked | future: will smoke | syn: fume
+description - a spoken or written account of someone or something | past: X | future: X | syn: account
+fruit - the sweet product of a plant containing seeds | past: X | future: X | syn: produce
+guilt - the fact of having committed an offense; a feeling of remorse | past: X | future: X | syn: remorse
+yield - to produce; to give way to demands or pressure | past: yielded | future: will yield | syn: produce
+sensitive - quick to detect or respond; easily hurt emotionally | past: X | future: X | syn: delicate
+salt - a white crystalline substance used for seasoning; to season | past: salted | future: will salt | syn: seasoning
+pale - light in color; lacking color in the face; to become pale | past: paled | future: will pale | syn: light
+sweep - to clean with a broom; to move swiftly | past: swept | future: will sweep | syn: clean
+completion - the action of finishing something | past: X | future: X | syn: finish
+throat - the passage in the neck from the mouth to the stomach | past: X | future: X | syn: gullet
+agriculture - the practice of farming and cultivating land | past: X | future: X | syn: farming
+admire - to regard with respect and warm approval | past: admired | future: will admire | syn: respect
+gentle - mild in temperament; not rough or violent | past: X | future: X | syn: mild
+dozen - a group or set of twelve | past: X | future: X | syn: twelve
+particle - a very small piece of something; a component of matter | past: X | future: X | syn: piece
+pleasant - giving a sense of enjoyment; agreeable | past: X | future: X | syn: agreeable
+bay - a broad curved inlet of the sea; a section of a building | past: X | future: X | syn: inlet
+cup - a small container used for drinking; to form into a cup shape | past: cupped | future: will cup | syn: mug
+competition - the activity of competing against others | past: X | future: X | syn: contest
+moon - the natural satellite of the earth | past: X | future: X | syn: satellite
+terrible - extremely bad or serious; causing terror | past: X | future: X | syn: dreadful
+strip - a long narrow piece of material; to remove a covering | past: stripped | future: will strip | syn: peel
+mechanic - a person who repairs or maintains machinery | past: X | future: X | syn: technician
+shock - a sudden disturbing experience; to cause surprise | past: shocked | future: will shock | syn: surprise
+conversation - a talk between two or more people | past: X | future: X | syn: talk
+angle - the space between two meeting lines; to position | past: angled | future: will angle | syn: corner
+tall - of great height | past: X | future: X | syn: high
+plenty - a large or sufficient quantity; abundance | past: X | future: X | syn: abundance
+star - a fixed luminous point in the night sky; to feature as a lead | past: starred | future: will star | syn: celebrity
+yellow - of the color between green and orange in the spectrum | past: X | future: X | syn: golden
+sick - affected by illness; feeling nauseous | past: X | future: X | syn: ill
+thorough - complete in every detail; doing things carefully | past: X | future: X | syn: complete
+absolute - complete and total; not limited or restricted | past: X | future: X | syn: complete
+succeed - to achieve a desired goal or purpose | past: succeeded | future: will succeed | syn: achieve
+surround - to be all around someone or something | past: surrounded | future: will surround | syn: encircle
+proud - feeling deep pleasure from one's achievements | past: X | future: X | syn: pleased
+dear - regarded with deep affection; expensive | past: X | future: X | syn: beloved
+card - a small flat piece of stiff paper; to check someone's ID | past: carded | future: will card | syn: note
+lake - a large body of water surrounded by land | past: X | future: X | syn: pond
+breath - air taken into and expelled from the lungs | past: X | future: X | syn: air
+afraid - feeling fear or anxiety | past: X | future: X | syn: scared
+silence - complete absence of sound | past: X | future: X | syn: quiet
+onto - moving to a position on the surface of | past: X | future: X | syn: upon
+shoe - a covering for the foot; to fit a horse with shoes | past: shod | future: will shoe | syn: footwear
+somewhere - in or to an unspecified or unknown place | past: X | future: X | syn: anywhere
+chain - a series of linked metal rings; to bind with a chain | past: chained | future: will chain | syn: link
+slide - to move smoothly along a surface | past: slid | future: will slide | syn: slip
+copy - a reproduction of an original; to reproduce or imitate | past: copied | future: will copy | syn: duplicate
+machinery - machines collectively; the components of a machine | past: X | future: X | syn: equipment
+wake - to stop sleeping; the trail left by a moving ship | past: woke | future: will wake | syn: rouse
+severe - very serious or extreme; strict and harsh | past: X | future: X | syn: extreme
+pocket - a small pouch in clothing; to put in a pocket | past: pocketed | future: will pocket | syn: pouch
+bone - a hard tissue forming the skeleton of vertebrates | past: X | future: X | syn: skeleton
+honest - free of deceit; truthful and sincere | past: X | future: X | syn: truthful
+freeze - to turn into ice; to become motionless with cold | past: froze | future: will freeze | syn: ice
+dictionary - a book listing words alphabetically with definitions | past: X | future: X | syn: lexicon
+calm - not showing emotion; free from disturbance; to soothe | past: calmed | future: will calm | syn: peaceful
+swim - to propel oneself through water using the body | past: swam | future: will swim | syn: paddle
+ice - frozen water; to cover with ice or icing | past: iced | future: will ice | syn: frost
+male - of the sex that produces sperm; a male person or animal | past: X | future: X | syn: man
+skin - the outer covering of a person or animal; to remove skin | past: skinned | future: will skin | syn: hide
+crack - a line on a surface from breaking; to break without fully separating | past: cracked | future: will crack | syn: split
+rush - to move with urgency; a sudden strong flow | past: rushed | future: will rush | syn: hurry
+wet - covered with liquid; to make wet | past: wetted | future: will wet | syn: moist
+meat - the flesh of an animal used as food | past: X | future: X | syn: flesh
+commerce - trade and business activities | past: X | future: X | syn: trade
+joint - a point where two things are joined; shared by two people | past: X | future: X | syn: connection
+gift - something given willingly; a natural talent | past: X | future: X | syn: present
+host - a person who receives guests; to hold an event | past: hosted | future: will host | syn: entertainer
+suspect - to believe someone is guilty; a person thought to be guilty | past: suspected | future: will suspect | syn: doubt
+path - a route along which someone walks | past: X | future: X | syn: trail
+uncle - the brother of one's father or mother | past: X | future: X | syn: relative
+afford - to have enough money for something; to provide | past: afforded | future: will afford | syn: manage
+instant - a very short moment in time; happening immediately | past: X | future: X | syn: moment
+satisfactory - fulfilling expectations; good enough | past: X | future: X | syn: acceptable
+height - the measurement from base to top; altitude | past: X | future: X | syn: altitude
+track - a path or course; a recording; to follow the trail of | past: tracked | future: will track | syn: trail
+confidence - the feeling of trust in one's own abilities | past: X | future: X | syn: assurance
+grass - a green plant with narrow leaves covering the ground | past: X | future: X | syn: lawn
+suggestion - an idea put forward for consideration | past: X | future: X | syn: proposal
+favorite - preferred above all others | past: X | future: X | syn: preferred
+breakfast - the first meal of the day | past: X | future: X | syn: morning meal
+apart - separated by distance or time; away from each other | past: X | future: X | syn: separate
+chest - the front of the thorax; a large strong box | past: X | future: X | syn: trunk
+entrance - the way into a place; the act of entering | past: X | future: X | syn: entry
+march - to walk with military step; to walk in a group | past: marched | future: will march | syn: parade
+sink - a fixed basin for washing; to go below the surface | past: sank | future: will sink | syn: submerge
+northern - of or relating to the north | past: X | future: X | syn: northward
+iron - a strong magnetic metal; to press clothes smooth | past: ironed | future: will iron | syn: metal
+alive - living; not dead; full of energy | past: X | future: X | syn: living
+ill - not in good health; unwell | past: X | future: X | syn: sick
+bag - a flexible container with an opening at the top | past: X | future: X | syn: sack
+disturb - to interrupt; to cause distress to someone | past: disturbed | future: will disturb | syn: interrupt
+native - belonging to a place by birth; an original inhabitant | past: X | future: X | syn: local
+bedroom - a room used primarily for sleeping | past: X | future: X | syn: chamber
+violent - using or involving physical force; very strong | past: X | future: X | syn: aggressive
+beneath - under; at a lower level than | past: X | future: X | syn: under
+pause - to stop temporarily; a temporary stop | past: paused | future: will pause | syn: stop
+tough - strong; difficult; able to endure hardship | past: X | future: X | syn: strong
+substance - a particular kind of material; the real content | past: X | future: X | syn: material
+threat - a statement of harmful intent; a likely cause of harm | past: X | future: X | syn: danger
+charm - the power to attract; to attract or delight | past: charmed | future: will charm | syn: attract
+absence - the state of being away from a place; a lack of | past: X | future: X | syn: lack
+factory - a building where goods are manufactured | past: X | future: X | syn: plant
+spite - a desire to hurt or annoy; to deliberately hurt | past: spited | future: will spite | syn: malice
+meal - any of the regular occasions for eating food | past: X | future: X | syn: food
+universal - relating to or done by all people; applicable everywhere | past: X | future: X | syn: global
+accident - an unfortunate event happening unexpectedly | past: X | future: X | syn: mishap
+highway - a main road connecting large towns | past: X | future: X | syn: road
+sentence - a set of words expressing a complete thought; to declare punishment | past: sentenced | future: will sentence | syn: phrase
+liberty - the state of being free from oppression | past: X | future: X | syn: freedom
+wise - having experience and good judgment | past: X | future: X | syn: smart
+noise - a sound, especially a loud or unpleasant one | past: X | future: X | syn: sound
+discovery - the act of finding something previously unknown | past: X | future: X | syn: finding
+tube - a long hollow cylinder used to convey something | past: X | future: X | syn: pipe
+flash - a sudden burst of bright light; to shine briefly | past: flashed | future: will flash | syn: gleam
+twist - to turn something in a winding or spiral direction | past: twisted | future: will twist | syn: turn
+fence - a barrier enclosing an area; to sell stolen goods | past: fenced | future: will fence | syn: barrier
+childhood - the state or period of being a child | past: X | future: X | syn: youth
+joy - a feeling of great pleasure and happiness | past: X | future: X | syn: happiness
+sister - a female who has the same parents as another | past: X | future: X | syn: sibling
+sad - feeling sorrow or unhappiness | past: X | future: X | syn: unhappy
+efficiency - the ability to produce results with minimum waste | past: X | future: X | syn: productivity
+disappear - to stop being visible; to cease to exist | past: disappeared | future: will disappear | syn: vanish
+defeat - a loss in a contest; to overcome an opponent | past: defeated | future: will defeat | syn: overcome
+extensive - covering a large area; great in range or scope | past: X | future: X | syn: broad
+rent - payment for using property; to pay for temporary use | past: rented | future: will rent | syn: lease
+comparison - the act of comparing two or more things | past: X | future: X | syn: contrast
+possess - to have as property; to control or occupy | past: possessed | future: will possess | syn: own
+grace - simple elegance; goodwill; to bring credit to | past: graced | future: will grace | syn: elegance
+flesh - the soft substance covering bones in humans and animals | past: X | future: X | syn: meat
+liquid - a substance that flows freely; in liquid form | past: X | future: X | syn: fluid
+scientist - a person who studies or practices science | past: X | future: X | syn: researcher
+ease - absence of difficulty or effort; to make less severe | past: eased | future: will ease | syn: comfort
+heaven - a place of supreme happiness; the sky | past: X | future: X | syn: paradise
+milk - a white liquid produced by mammals; to draw milk from | past: milked | future: will milk | syn: dairy
+sympathy - feelings of pity for another's misfortune | past: X | future: X | syn: compassion
+rank - a position in a hierarchy; to classify in order | past: ranked | future: will rank | syn: position
+restaurant - a place where people pay to eat meals | past: X | future: X | syn: diner
+frequency - the rate at which something occurs | past: X | future: X | syn: rate
+angry - feeling or showing strong displeasure | past: X | future: X | syn: furious
+shade - comparative darkness caused by shelter from light; to block light | past: shaded | future: will shade | syn: shadow
+accuse - to claim that someone has done something wrong | past: accused | future: will accuse | syn: charge
+necessity - something indispensable; the state of being necessary | past: X | future: X | syn: requirement
+knock - to strike a surface to gain attention; a hit | past: knocked | future: will knock | syn: hit
+loud - making a great deal of noise | past: X | future: X | syn: noisy
+permanent - lasting or remaining unchanged indefinitely | past: X | future: X | syn: lasting
+row - a line of things or people side by side; to propel a boat with oars | past: rowed | future: will row | syn: line
+lovely - attractively beautiful; very pleasant | past: X | future: X | syn: beautiful
+confuse - to make something unclear; to mix up | past: confused | future: will confuse | syn: muddle
+gold - a precious yellow metal; of a golden color | past: X | future: X | syn: metal
+frighten - to cause someone to feel fear | past: frightened | future: will frighten | syn: scare
+solve - to find an answer or solution to a problem | past: solved | future: will solve | syn: resolve
+grave - a place of burial; very serious or solemn | past: X | future: X | syn: serious
+salary - a fixed regular payment for employment | past: X | future: X | syn: wage
+photograph - an image taken with a camera; to take a picture | past: photographed | future: will photograph | syn: picture
+advice - guidance given regarding a decision or situation | past: X | future: X | syn: guidance
+abroad - in or to a foreign country | past: X | future: X | syn: overseas
+wound - an injury to the body; to cause an injury | past: wounded | future: will wound | syn: injury
+virtue - behavior showing high moral standards | past: X | future: X | syn: morality
+dare - to have the courage to do something risky | past: dared | future: will dare | syn: challenge
+queen - the female ruler of a nation; the wife of a king | past: X | future: X | syn: ruler
+extra - more than usual or necessary; an additional item | past: X | future: X | syn: additional
+attract - to cause interest or liking; to draw towards | past: attracted | future: will attract | syn: draw
+numerous - many; great in number | past: X | future: X | syn: many
+pink - a pale red color; to cut with a zigzag edge | past: X | future: X | syn: rose
+gate - a hinged barrier in a fence or wall | past: gated | future: will gate | syn: door
+expensive - costing a great deal of money | past: X | future: X | syn: costly
+shut - to close something; to become closed | past: shut | future: will shut | syn: close
+chicken - a common domestic bird; a cowardly person | past: X | future: X | syn: hen
+forgive - to stop feeling angry about a wrongdoing | past: forgave | future: will forgive | syn: pardon
+holy - dedicated to God or a religious purpose; sacred | past: X | future: X | syn: sacred
+wooden - made of wood; stiff and awkward in manner | past: X | future: X | syn: timber
+prompt - done without delay; to cause or encourage an action | past: prompted | future: will prompt | syn: immediate
+crime - an action that is against the law | past: X | future: X | syn: offense
+sorry - feeling regret or sympathy | past: X | future: X | syn: regretful
+republic - a state in which power is held by elected representatives | past: X | future: X | syn: state
+anger - strong displeasure or hostility; to provoke | past: angered | future: will anger | syn: rage
+visitor - a person who visits a place or person | past: X | future: X | syn: guest
+pile - a heap of things laid one on another; to heap things | past: piled | future: will pile | syn: heap
+violence - behavior involving physical force intended to hurt | past: X | future: X | syn: force
+steel - a hard strong metal alloy; to mentally prepare oneself | past: steeled | future: will steel | syn: iron
+wing - the appendage used by a bird for flying; a section of a building | past: X | future: X | syn: flap
+stair - each of a set of steps in a flight of stairs | past: X | future: X | syn: step
+partner - a person who shares activity or business with another | past: partnered | future: will partner | syn: associate
+delay - to make something late; a period of time by which something is late | past: delayed | future: will delay | syn: postpone
+gentleman - a polite, well-mannered man of good social position | past: X | future: X | syn: noble
+pour - to cause a liquid to flow; to rain heavily | past: poured | future: will pour | syn: flow
+confusion - the state of being confused; disorder | past: X | future: X | syn: disorder
+damage - physical harm reducing value; to cause harm | past: damaged | future: will damage | syn: harm
+kick - to strike with the foot | past: kicked | future: will kick | syn: strike
+safety - the condition of being protected from harm | past: X | future: X | syn: security
+burst - to break open suddenly from pressure | past: burst | future: will burst | syn: explode
+network - a system of interconnected things; to interact with others | past: networked | future: will network | syn: system
+resistance - the refusal to accept something; the ability to withstand | past: X | future: X | syn: opposition
+screw - a metal fastener with a helical thread; to fasten with a screw | past: screwed | future: will screw | syn: bolt
+pride - satisfaction derived from one's achievements; dignity | past: X | future: X | syn: dignity
+till - up to the time of; to prepare land for crops | past: tilled | future: will till | syn: until
+hire - to employ someone for wages | past: hired | future: will hire | syn: employ
+verb - a word used to describe an action, state, or occurrence | past: X | future: X | syn: action word
+preach - to deliver a sermon or religious message; to advocate | past: preached | future: will preach | syn: advocate
+clerk - a person who works in an office keeping records | past: X | future: X | syn: secretary
+everywhere - in all places | past: X | future: X | syn: all over
+anyway - regardless of other considerations | past: X | future: X | syn: regardless
+fan - a device for creating air current; an enthusiastic admirer | past: fanned | future: will fan | syn: admirer
+connect - to link or join things together | past: connected | future: will connect | syn: link
+egg - the oval object laid by a female bird; to urge someone | past: egged | future: will egg | syn: ovum
+efficient - achieving maximum output with minimum waste | past: X | future: X | syn: productive
+grain - a small hard seed of a cereal plant; texture of wood | past: X | future: X | syn: seed
+calculate - to determine an amount by mathematical process | past: calculated | future: will calculate | syn: compute
+drag - to pull along with effort; to move slowly | past: dragged | future: will drag | syn: pull
+opposition - resistance or conflict; a group opposing another | past: X | future: X | syn: resistance
+worship - reverent honor paid to a deity; to honor with devotion | past: worshipped | future: will worship | syn: revere
+arrest - to seize someone by legal authority | past: arrested | future: will arrest | syn: seize
+discipline - the practice of training to follow rules; to train | past: disciplined | future: will discipline | syn: training
+string - a thin cord; a sequence of things; to thread | past: strung | future: will string | syn: cord
+harbor - a sheltered area of water for ships; to shelter | past: harbored | future: will harbor | syn: port
+camera - a device for taking photographs or recording video | past: X | future: X | syn: device
+mechanism - a system of parts working together; means by which something works | past: X | future: X | syn: system
+cow - an adult female of a domesticated bovine animal | past: X | future: X | syn: cattle
+grand - large and impressive; magnificent | past: X | future: X | syn: magnificent
+funny - causing laughter or amusement; strange or odd | past: X | future: X | syn: amusing
+insurance - a financial arrangement covering risk of loss | past: X | future: X | syn: coverage
+reduction - the action of making something smaller or less | past: X | future: X | syn: decrease
+strict - demanding close compliance with rules | past: X | future: X | syn: firm
+lesson - a period of learning; something learned from experience | past: X | future: X | syn: class
+tight - fixed firmly; fitting closely; not loose | past: X | future: X | syn: firm
+sand - loose granular material from ground rock; to smooth with sandpaper | past: sanded | future: will sand | syn: grit
+plate - a flat dish for food; a flat sheet; to coat with metal | past: plated | future: will plate | syn: dish
+qualify - to meet the required standard for something | past: qualified | future: will qualify | syn: certify
+elsewhere - in or to another place or location | past: X | future: X | syn: somewhere else
+mad - mentally ill; extremely angry | past: X | future: X | syn: angry
+interference - the action of interfering with something; disturbance | past: X | future: X | syn: obstruction
+pupil - a student being taught; the circular opening in the iris | past: X | future: X | syn: student
+fold - to bend a material so one part lies on another | past: folded | future: will fold | syn: bend
+royal - relating to or belonging to a king or queen | past: X | future: X | syn: regal
+valuable - worth a great deal of money; very useful | past: X | future: X | syn: precious
+whisper - to speak very softly so as not to be heard | past: whispered | future: will whisper | syn: murmur
+anybody - any person; any person at all | past: X | future: X | syn: anyone
+hurt - to cause physical pain; to feel pain | past: hurt | future: will hurt | syn: injure
+excess - more than is needed or required; surplus | past: X | future: X | syn: surplus
+quantity - a particular amount or number of something | past: X | future: X | syn: amount
+fun - light-hearted enjoyment or amusement | past: X | future: X | syn: enjoyment
+mud - soft wet earth | past: X | future: X | syn: dirt
+extension - a part added to something; a prolongation of time | past: X | future: X | syn: addition
+recognition - acknowledgment of achievement; identification of someone | past: X | future: X | syn: acknowledgment
+kiss - a touch with the lips as a sign of affection | past: kissed | future: will kiss | syn: peck
+crop - a cultivated plant grown for food; to cut short | past: cropped | future: will crop | syn: harvest
+sail - a fabric used to propel a boat; to travel by ship | past: sailed | future: will sail | syn: voyage
+attractive - pleasing in appearance or quality | past: X | future: X | syn: appealing
+habit - a regular practice done consistently; a custom | past: X | future: X | syn: custom
+relieve - to cause pain or distress to become less severe | past: relieved | future: will relieve | syn: ease
+wisdom - the quality of having experience and good judgment | past: X | future: X | syn: knowledge
+persuade - to convince someone to do or believe something | past: persuaded | future: will persuade | syn: convince
+certainty - the state of being completely sure about something | past: X | future: X | syn: assurance
+cloth - woven or felted fabric | past: X | future: X | syn: fabric
+eager - strongly wanting to do or have something | past: X | future: X | syn: keen
+deserve - to be worthy of something based on actions | past: deserved | future: will deserve | syn: merit
+sympathetic - feeling or showing sympathy; showing approval | past: X | future: X | syn: compassionate
+cure - to solve a problem; a remedy that ends a disease | past: cured | future: will cure | syn: heal
+trap - a device for catching animals; to catch in a trap | past: trapped | future: will trap | syn: snare
+puzzle - a game or problem requiring skill; to confuse | past: puzzled | future: will puzzle | syn: mystery
+powder - a fine dry substance made of ground particles; to apply powder | past: powdered | future: will powder | syn: dust
+raw - not cooked; not processed or refined | past: X | future: X | syn: uncooked
+mankind - human beings considered collectively | past: X | future: X | syn: humanity
+glad - pleased; feeling pleasure or happiness | past: X | future: X | syn: happy
+blame - to hold responsible for a fault; responsibility for a fault | past: blamed | future: will blame | syn: accuse
+whenever - at any time that; every time | past: X | future: X | syn: anytime
+anxiety - a feeling of worry, nervousness, or unease | past: X | future: X | syn: worry
+bus - a large motor vehicle carrying passengers | past: X | future: X | syn: vehicle
+tremble - to shake involuntarily from fear or cold | past: trembled | future: will tremble | syn: shake
+sacred - regarded with great religious respect; holy | past: X | future: X | syn: holy
+fortunate - favored by luck or fortune | past: X | future: X | syn: lucky
+glory - high renown or honor won by achievement | past: X | future: X | syn: honor
+golden - made of or resembling gold; excellent | past: X | future: X | syn: gilded
+neat - arranged in a tidy or orderly way | past: X | future: X | syn: tidy
+weekend - Saturday and Sunday as a period of rest | past: X | future: X | syn: days off
+treasury - government funds; the place where funds are kept | past: X | future: X | syn: funds
+overcome - to succeed in dealing with a problem or difficulty | past: overcame | future: will overcome | syn: conquer
+cat - a small domesticated carnivorous mammal | past: X | future: X | syn: feline
+sacrifice - an act of giving up something valued; to give up | past: sacrificed | future: will sacrifice | syn: offering
+complain - to express dissatisfaction or annoyance | past: complained | future: will complain | syn: grumble
+elect - to choose someone by voting | past: elected | future: will elect | syn: choose
+roar - a loud deep sound made by a lion or crowd; to make a roar | past: roared | future: will roar | syn: bellow
+sake - for the purpose or benefit of something | past: X | future: X | syn: benefit
+temple - a building devoted to worship; the flat part of the head | past: X | future: X | syn: shrine
+self - a person's essential being that distinguishes them | past: X | future: X | syn: being
+compete - to strive against others for the same goal | past: competed | future: will compete | syn: contend
+nurse - a healthcare worker; to care for the sick | past: nursed | future: will nurse | syn: caregiver
+stuff - material, substance, or items; to fill tightly | past: stuffed | future: will stuff | syn: material
+stomach - the organ that digests food; to tolerate | past: stomached | future: will stomach | syn: belly
+peculiar - strange or unusual; particular to a place or person | past: X | future: X | syn: strange
+repair - to fix something that is damaged; the act of fixing | past: repaired | future: will repair | syn: fix
+storm - a violent disturbance of the atmosphere; to attack forcefully | past: stormed | future: will storm | syn: tempest
+ton - a unit of weight equal to 2,000 pounds | past: X | future: X | syn: weight
+desert - a dry barren area of land; to abandon someone | past: deserted | future: will desert | syn: abandon
+allowance - an amount of money given regularly; a permitted amount | past: X | future: X | syn: allocation
+servant - a person who performs duties for others | past: X | future: X | syn: helper
+hunger - a feeling of discomfort caused by lack of food; to crave | past: hungered | future: will hunger | syn: starvation
+conscience - an inner sense of right and wrong | past: X | future: X | syn: morality
+bread - a food made from flour, water, and yeast | past: X | future: X | syn: loaf
+crash - a sudden loud noise from a collision; to collide violently | past: crashed | future: will crash | syn: collision
+tip - a small piece of advice; the pointed end of something; to tilt | past: tipped | future: will tip | syn: hint
+strengthen - to make or become stronger | past: strengthened | future: will strengthen | syn: reinforce
+proof - evidence establishing a fact; resistant to | past: X | future: X | syn: evidence
+generous - showing a readiness to give more than expected | past: X | future: X | syn: giving
+sir - a polite form of address for a man | past: X | future: X | syn: mister
+tonight - on the present or approaching evening | past: X | future: X | syn: this evening
+whip - a strip of leather used to urge animals; to beat | past: whipped | future: will whip | syn: lash
+tongue - the muscular organ in the mouth used for tasting and speaking | past: X | future: X | syn: language
+mill - a building with machinery for grinding grain; to grind | past: milled | future: will mill | syn: grinder
+merchant - a person who trades in goods for profit | past: X | future: X | syn: trader
 coal
 ruin
 introduction

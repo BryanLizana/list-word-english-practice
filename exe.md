@@ -92,11 +92,74 @@
 - [x] lines 901-910
 - [x] lines 911-920
 - [x] lines 921-930
-- [ ] lines 931-940 ← current
+- [x] lines 931-940
+- [x] lines 941-950
+- [x] lines 951-960
+- [x] lines 961-970
+- [x] lines 971-980
+- [x] lines 981-990
+- [x] lines 991-1000
+- [x] lines 1001-1010
+- [x] lines 1011-1020
+- [x] lines 1021-1030
+- [x] lines 1031-1040
+- [x] lines 1041-1050
+- [x] lines 1051-1060
+- [x] lines 1061-1070
+- [x] lines 1071-1080
+- [x] lines 1081-1090
+- [x] lines 1091-1100
+- [x] lines 1101-1110
+- [x] lines 1111-1120
+- [x] lines 1121-1130
+- [x] lines 1131-1140
+- [x] lines 1141-1150
+- [x] lines 1151-1160
+- [x] lines 1161-1170
+- [x] lines 1171-1180
+- [x] lines 1181-1190
+- [x] lines 1191-1200
+- [x] lines 1201-1210
+- [x] lines 1211-1220
+- [x] lines 1221-1230
+- [x] lines 1231-1240
+- [x] lines 1241-1250
+- [x] lines 1251-1260
+- [x] lines 1261-1270
+- [x] lines 1271-1280
+- [x] lines 1281-1290
+- [x] lines 1291-1300
+- [x] lines 1301-1310
+- [x] lines 1311-1320
+- [x] lines 1321-1330
+- [x] lines 1331-1340
+- [x] lines 1341-1350
+- [x] lines 1351-1360
+- [x] lines 1361-1370
+- [x] lines 1371-1380
+- [x] lines 1381-1390
+- [x] lines 1391-1400
+- [x] lines 1401-1410
+- [x] lines 1411-1420
+- [x] lines 1421-1430
+- [x] lines 1431-1440
+- [x] lines 1441-1450
+- [x] lines 1451-1460
+- [x] lines 1461-1470
+- [x] lines 1471-1480
+- [x] lines 1481-1490
+- [x] lines 1491-1500
+- [x] lines 1501-1510
+- [x] lines 1511-1520
+- [x] lines 1521-1530
+- [x] lines 1531-1540
+- [x] lines 1541-1550
+- [x] lines 1551-1560
+- [ ] lines 1561-1570 ← current
 
 ---
 
-Read the file D:/0-init-BLizana/5-claude/english/letters.txt lines 931 to 940.
+Read the file D:/0-init-BLizana/5-claude/english/letters.txt lines 1561 to 1570.
 For each word add on the same line: definition in English, past tense, future tense, and a synonym.
 Use this exact format:
 
@@ -107,5 +170,5 @@ Rules:
 - If the word has no future tense, write X
 - If it does have past/future, write the correct form (e.g. had, will have, went, will go)
 - Synonym must be in English
-- Only modify lines 71 to 80, leave the rest of the file untouched
+- Only modify lines 1561 to 1570, leave the rest of the file untouched
 - After finishing, edit this exe.md: mark current block as [x], add next block as [ ] ← current, and update the range in the prompt below
