@@ -1558,216 +1558,216 @@ whip - a strip of leather used to urge animals; to beat | past: whipped | future
 tongue - the muscular organ in the mouth used for tasting and speaking | past: X | future: X | syn: language
 mill - a building with machinery for grinding grain; to grind | past: milled | future: will mill | syn: grinder
 merchant - a person who trades in goods for profit | past: X | future: X | syn: trader
-coal
-ruin
-introduction
-courage
-actor
-belt
-stir
-package
-punish
-reflection
-breathe
-anywhere
-amuse
-dull
-fate
-net
-fellowship
-fault
-furniture
-beam
-pencil
-border
-disappoint
-flame
-joke
-bless
-corn
-shell
-tempt
-supper
-destruction
-dive
-anxious
-shine
-cheap
-dish
-distant
-greet
-flood
-excuse
-insect
-ocean
-ceremony
-decrease
-prize
-harm
-insure
-verse
-pot
-sincere
-cotton
-leaf
-rub
-medicine
-stroke
-bite
-lung
-lonely
-admission
-stupid
-scratch
-composition
-broadcast
-drum
-resist
-neglect
-absent
-passenger
-adventure
-beg
-pipe
-beard
-bold
-meanwhile
-devil
-cheer
-nut
-split
-melt
-swear
-sugar
-bury
-wipe
-faint
-creature
-tail
-wealth
-earnest
-translate
-suspicion
-noble
-inquiry
-journey
-hesitate
-extraordinary
-borrow
-owe
-funeral
-ambition
-mixture
-slope
-criminal
-seldom
-map
-spin
-praise
-spare
-plow
-telegraph
-barrel
-straighten
-scarce
-lunch
-slavery
-creep
-sweat
-gay
-stiff
-brave
-seize
-convenient
-horizon
-moderate
-complicate
-dig
-curse
-weigh
-priest
-excessive
-quarrel
-widow
-modest
-dine
-politician
-custom
-educate
-salesman
-nail
-tap
-eastern
-possession
-satisfaction
-behave
-mercy
-scatter
-objection
-silver
-tent
-saddle
-wrap
-nest
-grind
-spell
-plaster
-arch
-swell
-friendship
-bath
-bundle
-grateful
-crown
-boundary
-nowhere
-asleep
-clock
-boil
-altogether
-lend
-holiday
-precious
-wander
-ugly
-reputation
-ticket
-pretend
-dismiss
-delicate
-despair
-awake
-tea
-FALSO
-fortune
-cap
-thread
-haste
-bare
-shirt
-bargain
-leather
-rail
-butter
-dot
-inquire
-warmth
-decisive
-vessel
-pity
-steam
-pin
-bound
-companion
-toe
-reward
-forbid
-wherever
-tower
-bathe
-lodge
-swallow
-multiply
+coal - a hard black mineral used as fuel | past: X | future: X | syn: charcoal
+ruin - to cause severe damage to something; to destroy | past: ruined | future: will ruin | syn: destroy
+introduction - the action of presenting or explaining something for the first time | past: X | future: X | syn: presentation
+courage - the ability to face danger or difficulty without fear | past: X | future: X | syn: bravery
+actor - a person who performs roles in plays, films, or television | past: X | future: X | syn: performer
+belt - a strip of material worn around the waist to hold clothes in place | past: X | future: X | syn: strap
+stir - to move an implement around in a liquid or mixture to combine it | past: stirred | future: will stir | syn: mix
+package - a wrapped or boxed object; a bundle of items | past: X | future: X | syn: parcel
+punish - to impose a penalty on someone as retribution for wrongdoing | past: punished | future: will punish | syn: penalize
+reflection - the image seen in a mirror; careful thought about something | past: X | future: X | syn: image
+breathe - to take air into the lungs and expel it | past: breathed | future: will breathe | syn: inhale
+anywhere - in, at, or to any place | past: X | future: X | syn: wherever
+amuse - to entertain or cause someone to laugh | past: amused | future: will amuse | syn: entertain
+dull - lacking interest or excitement; not sharp | past: X | future: X | syn: boring
+fate - the development of events beyond a person's control | past: X | future: X | syn: destiny
+net - a piece of material made of threads or wires woven together | past: X | future: X | syn: mesh
+fellowship - a friendly association with others; companionship | past: X | future: X | syn: companionship
+fault - a defect or mistake; responsibility for wrongdoing | past: X | future: X | syn: defect
+furniture - large movable objects used to make a space functional | past: X | future: X | syn: furnishings
+beam - a long sturdy piece of timber or metal; a ray of light | past: X | future: X | syn: ray
+pencil - a thin stick of graphite enclosed in wood, used for writing | past: X | future: X | syn: stylus
+border - a line separating two countries or regions; an edge | past: X | future: X | syn: boundary
+disappoint - to fail to fulfill the hopes or expectations of someone | past: disappointed | future: will disappoint | syn: let down
+flame - a hot glowing body of ignited gas; fire | past: X | future: X | syn: blaze
+joke - something said or done to cause laughter | past: joked | future: will joke | syn: jest
+bless - to invoke divine favor upon; to make holy | past: blessed | future: will bless | syn: sanctify
+corn - a cereal plant, especially maize | past: X | future: X | syn: maize
+shell - the hard outer covering of an egg, nut, or shellfish | past: X | future: X | syn: husk
+tempt - to entice someone to do something wrong; to attract | past: tempted | future: will tempt | syn: entice
+supper - the evening meal | past: X | future: X | syn: dinner
+destruction - the action of causing so much damage that something no longer exists | past: X | future: X | syn: demolition
+dive - to plunge head first into water; to descend steeply | past: dived | future: will dive | syn: plunge
+anxious - experiencing worry, nervousness, or unease | past: X | future: X | syn: worried
+shine - to give out a bright light | past: shone | future: will shine | syn: glow
+cheap - low in price; not expensive | past: X | future: X | syn: inexpensive
+dish - a flat container for food; a particular kind of food | past: X | future: X | syn: plate
+distant - far away in space or time | past: X | future: X | syn: remote
+greet - to say hello to someone; to welcome | past: greeted | future: will greet | syn: welcome
+flood - an overflow of a large amount of water onto land | past: X | future: X | syn: deluge
+excuse - a reason given to justify a fault or mistake | past: X | future: X | syn: justification
+insect - a small invertebrate animal with six legs and usually wings | past: X | future: X | syn: bug
+ocean - a very large expanse of sea | past: X | future: X | syn: sea
+ceremony - a formal event performed on an important occasion | past: X | future: X | syn: ritual
+decrease - to become or make smaller or fewer in size, amount, or degree | past: decreased | future: will decrease | syn: reduce
+prize - a reward given to the winner of a competition | past: X | future: X | syn: reward
+harm - physical injury or damage done to someone or something | past: X | future: X | syn: damage
+insure - to arrange for compensation in the event of damage or loss | past: insured | future: will insure | syn: protect
+verse - writing arranged with a metrical rhythm; a stanza of a poem | past: X | future: X | syn: stanza
+pot - a rounded container used for cooking or storing | past: X | future: X | syn: container
+sincere - free from pretense; genuine and honest | past: X | future: X | syn: genuine
+cotton - a soft white fiber that grows around the seeds of a tropical plant | past: X | future: X | syn: fabric
+leaf - a flattened structure of a plant where photosynthesis occurs | past: X | future: X | syn: foliage
+rub - to move one's hand or cloth repeatedly over a surface | past: rubbed | future: will rub | syn: scrub
+medicine - a drug or preparation used to treat or prevent disease | past: X | future: X | syn: remedy
+stroke - an act of hitting; a gentle movement of the hand over a surface | past: X | future: X | syn: blow
+bite - to cut into something with the teeth | past: bit | future: will bite | syn: chew
+lung - each of the pair of organs in the chest used for breathing | past: X | future: X | syn: lights
+lonely - sad because one has no friends or company | past: X | future: X | syn: solitary
+admission - the process of entering; an acknowledgment of a fact | past: X | future: X | syn: entry
+stupid - lacking intelligence or good judgment; foolish | past: X | future: X | syn: foolish
+scratch - to score a surface with a sharp object; a slight wound | past: scratched | future: will scratch | syn: scrape
+composition - the way something is put together; a piece of music or writing | past: X | future: X | syn: arrangement
+broadcast - to transmit a program by radio or television; to make widely known | past: broadcast | future: will broadcast | syn: transmit
+drum - a percussion instrument with a hollow cylinder and membranes | past: X | future: X | syn: percussion
+resist - to withstand the action or effect of something; to refuse to accept | past: resisted | future: will resist | syn: oppose
+neglect - to fail to care for properly; to disregard | past: neglected | future: will neglect | syn: ignore
+absent - not present in a place; not existing | past: X | future: X | syn: missing
+passenger - a traveler in a vehicle who is not the driver | past: X | future: X | syn: traveler
+adventure - an unusual and exciting or daring experience | past: X | future: X | syn: expedition
+beg - to ask someone earnestly or humbly for something | past: begged | future: will beg | syn: plead
+pipe - a tube used to convey water, gas, or oil; a wind instrument | past: X | future: X | syn: tube
+beard - hair that grows on a man's chin and cheeks | past: X | future: X | syn: stubble
+bold - showing willingness to take risks; confident and courageous | past: X | future: X | syn: daring
+meanwhile - in the intervening time; at the same time | past: X | future: X | syn: simultaneously
+devil - the supreme spirit of evil; a wicked person | past: X | future: X | syn: demon
+cheer - to shout encouragement or approval; a shout of joy | past: cheered | future: will cheer | syn: encourage
+nut - a hard-shelled fruit; a small metal block with a threaded hole | past: X | future: X | syn: kernel
+split - to break or cause to break into parts | past: split | future: will split | syn: divide
+melt - to change from a solid to a liquid state by the application of heat | past: melted | future: will melt | syn: dissolve
+swear - to make a solemn declaration; to use offensive language | past: swore | future: will swear | syn: vow
+sugar - a sweet crystalline substance obtained from sugarcane or beet | past: X | future: X | syn: sweetener
+bury - to place a dead body in the ground; to hide underground | past: buried | future: will bury | syn: inter
+wipe - to clean or dry something by rubbing | past: wiped | future: will wipe | syn: clean
+faint - to lose consciousness temporarily; barely perceptible | past: fainted | future: will faint | syn: pass out
+creature - an animal or other living being | past: X | future: X | syn: being
+tail - the hindmost part of an animal; the rear end of something | past: X | future: X | syn: end
+wealth - an abundance of money, possessions, or valuable resources | past: X | future: X | syn: riches
+earnest - resulting from or showing sincere conviction; serious in intention | past: X | future: X | syn: sincere
+translate - to convert text or speech from one language into another | past: translated | future: will translate | syn: interpret
+suspicion - a feeling that something is possible or likely; distrust | past: X | future: X | syn: distrust
+noble - belonging to a high social class; having fine moral qualities | past: X | future: X | syn: honorable
+inquiry - an act of asking for information; an official investigation | past: X | future: X | syn: investigation
+journey - a long trip from one place to another | past: X | future: X | syn: trip
+hesitate - to pause before doing something due to uncertainty | past: hesitated | future: will hesitate | syn: pause
+extraordinary - very unusual or remarkable; beyond what is ordinary | past: X | future: X | syn: remarkable
+borrow - to take and use something belonging to someone else, intending to return it | past: borrowed | future: will borrow | syn: obtain
+owe - to be obligated to pay or give something to someone | past: owed | future: will owe | syn: be indebted
+funeral - a ceremony held after a person's death before burial | past: X | future: X | syn: burial
+ambition - a strong desire to achieve something | past: X | future: X | syn: aspiration
+mixture - a combination of different elements | past: X | future: X | syn: blend
+slope - a surface where one end is at a higher level than another; an incline | past: X | future: X | syn: incline
+criminal - a person who has committed a crime; relating to crime | past: X | future: X | syn: offender
+seldom - not often; rarely | past: X | future: X | syn: rarely
+map - a diagram of a region showing features like roads or rivers | past: X | future: X | syn: chart
+spin - to turn or rotate rapidly; to make thread by twisting fibers | past: spun | future: will spin | syn: rotate
+praise - to express warm approval or admiration; commendation | past: praised | future: will praise | syn: commend
+spare - to refrain from harming; to give or lend; extra or surplus | past: spared | future: will spare | syn: save
+plow - a farming implement for cutting and turning over soil | past: plowed | future: will plow | syn: till
+telegraph - a system for transmitting messages over a distance using electrical signals | past: X | future: X | syn: wire
+barrel - a cylindrical container with flat ends, used to store liquids | past: X | future: X | syn: cask
+straighten - to make or become straight | past: straightened | future: will straighten | syn: align
+scarce - insufficient for the demand; not easily found | past: X | future: X | syn: rare
+lunch - a meal eaten in the middle of the day | past: X | future: X | syn: luncheon
+slavery - the condition of being owned by another and forced to work | past: X | future: X | syn: bondage
+creep - to move slowly and carefully to avoid being noticed | past: crept | future: will creep | syn: crawl
+sweat - moisture secreted through the pores of the skin; to perspire | past: sweated | future: will sweat | syn: perspire
+gay - light-hearted and carefree; merry | past: X | future: X | syn: cheerful
+stiff - not easily bent; rigid | past: X | future: X | syn: rigid
+brave - ready to face danger or pain without showing fear | past: X | future: X | syn: courageous
+seize - to take hold of something suddenly and forcibly | past: seized | future: will seize | syn: grab
+convenient - fitting in well with a person's needs or plans | past: X | future: X | syn: suitable
+horizon - the line at which the earth's surface and the sky appear to meet | past: X | future: X | syn: skyline
+moderate - average in amount or degree; not extreme | past: X | future: X | syn: average
+complicate - to make something more difficult or less simple | past: complicated | future: will complicate | syn: confuse
+dig - to break up and move earth; to make a hole in the ground | past: dug | future: will dig | syn: excavate
+curse - a solemn utterance intended to cause harm; to swear | past: cursed | future: will curse | syn: swear
+weigh - to find out the weight of; to have a specified weight | past: weighed | future: will weigh | syn: measure
+priest - a person ordained to perform religious duties and ceremonies | past: X | future: X | syn: minister
+excessive - more than is necessary, normal, or desirable | past: X | future: X | syn: extreme
+quarrel - an angry argument or disagreement between people | past: quarreled | future: will quarrel | syn: dispute
+widow - a woman whose husband has died and who has not remarried | past: X | future: X | syn: bereaved
+modest - unassuming about one's abilities; moderate in size or amount | past: X | future: X | syn: humble
+dine - to eat dinner or a formal meal | past: dined | future: will dine | syn: eat
+politician - a person who is professionally involved in politics | past: X | future: X | syn: statesman
+custom - a traditional and widely accepted way of behaving in a society | past: X | future: X | syn: tradition
+educate - to give intellectual and social instruction to someone | past: educated | future: will educate | syn: teach
+salesman - a person whose job is to sell goods or services | past: X | future: X | syn: vendor
+nail - a small metal spike driven into wood to join things; a fingernail | past: X | future: X | syn: spike
+tap - a device controlling the flow of liquid; to strike lightly | past: tapped | future: will tap | syn: knock
+eastern - situated in or relating to the east | past: X | future: X | syn: oriental
+possession - the state of having or owning something | past: X | future: X | syn: ownership
+satisfaction - fulfillment of one's desires or needs; contentment | past: X | future: X | syn: contentment
+behave - to act in a specified way; to conduct oneself properly | past: behaved | future: will behave | syn: act
+mercy - compassion shown toward someone who is in one's power | past: X | future: X | syn: compassion
+scatter - to throw in various random directions; to cause to disperse | past: scattered | future: will scatter | syn: disperse
+objection - an expression of disapproval or opposition | past: X | future: X | syn: protest
+silver - a precious shiny grayish-white metal; the color gray | past: X | future: X | syn: sterling
+tent - a portable shelter made of cloth supported by poles | past: X | future: X | syn: shelter
+saddle - a seat fastened on the back of a horse or bicycle | past: X | future: X | syn: seat
+wrap - to cover or enclose in paper or other material | past: wrapped | future: will wrap | syn: cover
+nest - a structure built by a bird or animal as a place to live or breed | past: X | future: X | syn: den
+grind - to reduce to small particles by crushing; to sharpen by friction | past: ground | future: will grind | syn: crush
+spell - a spoken word believed to have magic power; a short period | past: X | future: X | syn: enchantment
+plaster - a soft mixture applied to walls that hardens; a bandage strip | past: X | future: X | syn: bandage
+arch - a curved structure that spans an opening and supports weight above | past: X | future: X | syn: curve
+swell - to become larger or rounder due to fluid accumulation | past: swelled | future: will swell | syn: expand
+friendship - a close relationship between people who care for each other | past: X | future: X | syn: companionship
+bath - an act of washing the body in a tub filled with water | past: X | future: X | syn: wash
+bundle - a collection of things tied or wrapped together | past: X | future: X | syn: package
+grateful - feeling or showing appreciation for kindness received | past: X | future: X | syn: thankful
+crown - a circular ornamental headdress worn by a monarch; the top part | past: X | future: X | syn: diadem
+boundary - a line marking the limits of an area; a dividing line | past: X | future: X | syn: border
+nowhere - not in, at, or to any place | past: X | future: X | syn: no place
+asleep - in or into a state of sleep | past: X | future: X | syn: sleeping
+clock - a mechanical or electrical device for measuring and displaying time | past: X | future: X | syn: timepiece
+boil - to heat a liquid until it reaches boiling point and bubbles | past: boiled | future: will boil | syn: simmer
+altogether - completely; with everything included; in total | past: X | future: X | syn: completely
+lend - to grant someone the use of something temporarily | past: lent | future: will lend | syn: loan
+holiday - a day of festivity or rest; a period of recreation | past: X | future: X | syn: vacation
+precious - of great value; not to be wasted | past: X | future: X | syn: valuable
+wander - to walk or move without a fixed course or destination | past: wandered | future: will wander | syn: roam
+ugly - unpleasant or repulsive to look at | past: X | future: X | syn: unattractive
+reputation - the beliefs or opinions generally held about someone or something | past: X | future: X | syn: standing
+ticket - a piece of paper giving the holder a right to travel or enter | past: X | future: X | syn: pass
+pretend - to behave as if something is the case when it is not | past: pretended | future: will pretend | syn: feign
+dismiss - to order someone to leave; to treat as unworthy of consideration | past: dismissed | future: will dismiss | syn: discharge
+delicate - very fine in texture or structure; easily broken or damaged | past: X | future: X | syn: fragile
+despair - the complete loss or absence of hope | past: X | future: X | syn: hopelessness
+awake - not asleep; alert and aware | past: X | future: X | syn: alert
+tea - a hot drink made by infusing dried tea leaves in boiling water | past: X | future: X | syn: brew
+FALSO - Spanish word meaning false or untrue (not a standard English word) | past: X | future: X | syn: false
+fortune - chance or luck as an external force; a large amount of money | past: X | future: X | syn: luck
+cap - a flat hat without a brim; the top or covering of something | past: X | future: X | syn: hat
+thread - a long thin strand of fiber used for sewing or weaving | past: X | future: X | syn: fiber
+haste - excessive speed or urgency of movement or action | past: X | future: X | syn: speed
+bare - not clothed or covered; empty or plain | past: X | future: X | syn: naked
+shirt - a garment for the upper body with a collar and sleeves | past: X | future: X | syn: blouse
+bargain - an agreement in which both parties gain; something offered cheaply | past: X | future: X | syn: deal
+leather - a material made from the skin of an animal by tanning | past: X | future: X | syn: hide
+rail - a bar fixed on posts as a fence; a steel bar forming a railroad track | past: X | future: X | syn: bar
+butter - a pale yellow fatty substance made from cream, used as food | past: X | future: X | syn: spread
+dot - a small round mark or spot | past: X | future: X | syn: spot
+inquire - to ask for information from someone | past: inquired | future: will inquire | syn: ask
+warmth - the quality of being warm; friendliness and enthusiasm | past: X | future: X | syn: heat
+decisive - settling an issue; producing a definite result | past: X | future: X | syn: conclusive
+vessel - a ship or large boat; a hollow container for liquids | past: X | future: X | syn: ship
+pity - a feeling of sorrow and compassion for the suffering of others | past: X | future: X | syn: compassion
+steam - the vapor into which water is converted when heated to boiling | past: X | future: X | syn: vapor
+pin - a thin piece of metal with a sharp point used for fastening things | past: X | future: X | syn: needle
+bound - tied or fastened; obligated; likely to happen | past: X | future: X | syn: tied
+companion - a person or animal that accompanies or keeps company with another | past: X | future: X | syn: friend
+toe - each of the five digits at the end of the human foot | past: X | future: X | syn: digit
+reward - something given in recognition of service, effort, or achievement | past: X | future: X | syn: prize
+forbid - to refuse to allow something; to order someone not to do something | past: forbade | future: will forbid | syn: prohibit
+wherever - in, at, or to whatever place | past: X | future: X | syn: anywhere
+tower - a tall narrow building or structure | past: X | future: X | syn: spire
+bathe - to wash by immersing oneself in water | past: bathed | future: will bathe | syn: wash
+lodge - a small house; to stay temporarily; to present a complaint formally | past: lodged | future: will lodge | syn: stay
+swallow - to cause food or drink to pass down the throat; a small migratory bird | past: swallowed | future: will swallow | syn: gulp
+multiply - to increase in number or quantity; to perform multiplication | past: multiplied | future: will multiply | syn: increase
 bow
 kingdom
 garage

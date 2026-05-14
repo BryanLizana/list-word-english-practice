@@ -155,11 +155,32 @@
 - [x] lines 1531-1540
 - [x] lines 1541-1550
 - [x] lines 1551-1560
-- [ ] lines 1561-1570 ← current
+- [x] lines 1561-1570
+- [x] lines 1571-1580
+- [x] lines 1581-1590
+- [x] lines 1591-1600
+- [x] lines 1601-1610
+- [x] lines 1611-1620
+- [x] lines 1621-1630
+- [x] lines 1631-1640
+- [x] lines 1641-1650
+- [x] lines 1651-1660
+- [x] lines 1661-1670
+- [x] lines 1671-1680
+- [x] lines 1681-1690
+- [x] lines 1691-1700
+- [x] lines 1701-1710
+- [x] lines 1711-1720
+- [x] lines 1721-1730
+- [x] lines 1731-1740
+- [x] lines 1741-1750
+- [x] lines 1751-1760
+- [x] lines 1761-1770
+- [ ] lines 1771-1780 ← current
 
 ---
 
-Read the file D:/0-init-BLizana/5-claude/english/letters.txt lines 1561 to 1570.
+Read the file D:/0-init-BLizana/5-claude/english/letters.txt lines 1771 to 1780.
 For each word add on the same line: definition in English, past tense, future tense, and a synonym.
 Use this exact format:
 
